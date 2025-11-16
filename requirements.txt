@@ -1,0 +1,13 @@
+dash>=2.14.0
+plotly>=5.17.0
+pandas>=1.5.0
+
+# Added for PDF extraction utility
+PyPDF2>=3.0.0
+tqdm>=4.66.0
+
+# PDF generation for quiz sets
+reportlab>=3.6.12
+
+python-docx>=0.8.11
+
