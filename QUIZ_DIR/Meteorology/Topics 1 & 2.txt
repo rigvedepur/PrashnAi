@@ -1,0 +1,357 @@
+Q1: Which layer of the atmosphere contains 75% of all atmospheric mass?
+A) Stratosphere
+B) Mesosphere
+C) Troposphere
+D) Thermosphere
+Answer: C
+
+Q2: In which atmospheric layer does temperature increase with altitude?
+A) Troposphere
+B) Mesosphere
+C) Exosphere
+D) Stratosphere
+Answer: D
+
+Q3: Which gas makes up ~78% of Earth's atmosphere?
+A) Oxygen
+B) Carbon dioxide
+C) Nitrogen
+D) Argon
+Answer: C
+
+Q4: Which pollutant is associated with cars and incomplete combustion?
+A) Ozone
+B) Carbon monoxide
+C) Nitrous oxide
+D) Methane
+Answer: B
+
+Q5: Ozone in the stratosphere is important because it absorbs:
+A) Infrared radiation
+B) Visible light
+C) Ultraviolet radiation
+D) Microwaves
+Answer: C
+
+Q6: Temperature inversion occurs when temperature:
+A) Decreases with height
+B) Increases with height
+C) Remains constant
+D) Cycles up and down
+Answer: B
+
+Q7: Which layer contains the auroras?
+A) Troposphere
+B) Mesosphere
+C) Stratosphere
+D) Thermosphere
+Answer: D
+
+Q8: What is the second most abundant gas in the atmosphere?
+A) Argon
+B) Carbon dioxide
+C) Oxygen
+D) Neon
+Answer: C
+
+Q9: Which atmospheric layer is coldest?
+A) Troposphere
+B) Mesosphere
+C) Thermosphere
+D) Exosphere
+Answer: B
+
+Q10: What causes most weather phenomena?
+A) Solar radiation
+B) Earth's magnetic field
+C) Moon's gravity
+D) Plate tectonics
+Answer: A
+
+Solar Radiation & Seasons
+
+Q11: Seasons occur mainly because of:
+A) Earth's distance from the Sun
+B) Earth's tilted axis
+C) Sun’s changing brightness
+D) Earth’s rotation speed
+Answer: B
+
+Q12: The Earth’s axial tilt is approximately:
+A) 10°
+B) 23.5°
+C) 45°
+D) 66.5°
+Answer: B
+
+Q13: Summer in the Northern Hemisphere occurs when the North Pole is:
+A) Tilted away from the Sun
+B) Not tilted at all
+C) Tilted toward the Sun
+D) At its aphelion
+Answer: C
+
+Q14: Insolation is highest when Sun angle is:
+A) Low
+B) Moderate
+C) High
+D) Irrelevant
+Answer: C
+
+Q15: Which location receives the most direct sunlight year-round?
+A) 60° N
+B) Equator
+C) 45° S
+D) 30° N
+Answer: B
+
+Q16: During an equinox:
+A) The Northern Hemisphere is tilted toward the Sun
+B) The Southern Hemisphere is tilted toward the Sun
+C) Day and night are equal everywhere
+D) The poles receive 24-hour daylight
+Answer: C
+
+Q17: Which latitude experiences 24 hours of daylight on June 21?
+A) 66.5° N
+B) 45° N
+C) 23.5° N
+D) 0°
+Answer: A
+
+Q18: Solar radiation reaching Earth’s surface is mostly in which form?
+A) Infrared
+B) Gamma
+C) Ultraviolet
+D) Visible light
+Answer: D
+
+Q19: The greenhouse effect warms Earth because greenhouse gases absorb:
+A) Incoming sunlight
+B) Outgoing infrared radiation
+C) Sound energy
+D) X-rays
+Answer: B
+
+Q20: The Sun emits energy primarily due to:
+A) Chemical reactions
+B) Nuclear fission
+C) Nuclear fusion
+D) Magnetic compression
+Answer: C
+
+More Atmosphere
+
+Q21: Air pressure decreases:
+A) Linearly with height
+B) Exponentially with height
+C) Only above the stratosphere
+D) Only in storms
+Answer: B
+
+Q22: Which layer contains the ozone layer?
+A) Troposphere
+B) Mesosphere
+C) Stratosphere
+D) Thermosphere
+Answer: C
+
+Q23: Which gas acts as the main greenhouse gas in the troposphere?
+A) Water vapor
+B) Nitrogen
+C) Argon
+D) Helium
+Answer: A
+
+Q24: What effect do aerosols typically have?
+A) Increase surface temperatures
+B) Cool Earth by reflecting sunlight
+C) Warm Earth by absorbing IR
+D) Increase greenhouse gases
+Answer: B
+
+Q25: Which is the correct order from lowest to highest?
+A) Troposphere → Stratosphere → Mesosphere → Thermosphere
+B) Stratosphere → Troposphere → Mesosphere → Thermosphere
+C) Mesosphere → Stratosphere → Troposphere → Exosphere
+D) Troposphere → Mesosphere → Stratosphere → Exosphere
+Answer: A
+
+Q26: Which layer has the greatest temperature variation?
+A) Troposphere
+B) Mesosphere
+C) Thermosphere
+D) Stratosphere
+Answer: C
+
+Q27: Most atmospheric ozone is formed when UV radiation splits:
+A) CO₂
+B) O₂
+C) N₂
+D) CH₄
+Answer: B
+
+Q28: Which gas is increasing mostly due to fossil fuels?
+A) Nitrogen
+B) Oxygen
+C) Carbon dioxide
+D) Argon
+Answer: C
+
+Q29: Temperature generally decreases with height in the:
+A) Stratosphere
+B) Thermosphere
+C) Mesosphere
+D) Exosphere
+Answer: C
+
+Q30: Which pollutant contributes most to photochemical smog?
+A) SO₂
+B) NOx
+C) Argon
+D) Helium
+Answer: B
+
+More Solar Radiation
+
+Q31: The Sun’s energy that reaches Earth’s surface is called:
+A) Albedo
+B) Insolation
+C) Transmission
+D) Scattering
+Answer: B
+
+Q32: Why is the equator warmer than the poles?
+A) It’s closer to the Sun
+B) Receives more direct sunlight
+C) Has more greenhouse gases
+D) Rotates slower
+Answer: B
+
+Q33: What causes day length to vary by latitude?
+A) Seasonal winds
+B) Earth’s tilt
+C) Earth's magnetic field
+D) Sunspot cycles
+Answer: B
+
+Q34: When Earth is closest to the Sun (perihelion), it is:
+A) January
+B) April
+C) July
+D) September
+Answer: A
+
+Q35: What determines whether sunlight is direct or diffuse?
+A) Solar angle
+B) Earth's speed
+C) Ocean currents
+D) Seasons only
+Answer: A
+
+Final 15 Questions
+
+Q36: Albedo refers to:
+A) Heat retention
+B) Light absorption
+C) Light reflection
+D) Temperature increase
+Answer: C
+
+Q37: A surface with high albedo will:
+A) Absorb more energy
+B) Reflect more energy
+C) Warm quickly
+D) Emit more IR
+Answer: B
+
+Q38: Earth's energy budget is balanced when:
+A) Incoming = outgoing radiation
+B) CO₂ decreases
+C) Sunspot activity is low
+D) Earth’s tilt is 0°
+Answer: A
+
+Q39: When sunlight enters the atmosphere, most scattering is caused by:
+A) Dust
+B) Nitrogen and oxygen
+C) Ozone
+D) Water vapor
+Answer: B
+
+Q40: The sky appears blue because shorter wavelengths:
+A) Pass through easily
+B) Are absorbed
+C) Scatter more
+D) Reflect off oceans
+Answer: C
+
+Q41: Which hemisphere receives more insolation on December 21?
+A) Northern
+B) Southern
+C) Both equal
+D) Depends on clouds
+Answer: B
+
+Q42: A location with high latitude receives ___ sunlight angle.
+A) High
+B) Low
+C) Medium
+D) Constant
+Answer: B
+
+Q43: Which factor affects Earth’s seasons the least?
+A) Axial tilt
+B) Sun angle
+C) Day length
+D) Distance from Sun
+Answer: D
+
+Q44: During the June solstice, the Sun is directly overhead at:
+A) Equator
+B) Tropic of Cancer
+C) Tropic of Capricorn
+D) North Pole
+Answer: B
+
+Q45: In winter, the sun’s energy is weaker because:
+A) Earth is farther
+B) Sun angle is lower
+C) Air pressure is higher
+D) Oceans cool faster
+Answer: B
+
+Q46: The stratosphere warms with height mainly because of:
+A) Water vapor
+B) UV absorption by ozone
+C) Convection currents
+D) Rising warm air
+Answer: B
+
+Q47: Most weather occurs in the troposphere because:
+A) It contains most greenhouse gases
+B) It is closest to the Sun
+C) It has the highest pressure and moisture
+D) It has strong winds
+Answer: C
+
+Q48: The primary driver of global circulation is:
+A) Seasons
+B) Solar heating differences
+C) Earth’s rotation
+D) Ocean tides
+Answer: B
+
+Q49: Which region has the smallest seasonal temperature variation?
+A) Mid-latitudes
+B) Continental interior
+C) Equator
+D) Poles
+Answer: C
+
+Q50: Which factor increases surface heating the MOST?
+A) Low albedo
+B) High altitude
+C) Strong winds
+D) High ozone
+Answer: A
