@@ -113,6 +113,36 @@ def list_quiz_files():
     return items
 
 
+def list_topics():
+    """Get list of topic folders inside QUIZ_DIR"""
+    topics = []
+    try:
+        if os.path.isdir(QUIZ_DIR):
+            for name in sorted(os.listdir(QUIZ_DIR)):
+                path = os.path.join(QUIZ_DIR, name)
+                if os.path.isdir(path):
+                    topics.append({"label": name, "value": path})
+    except Exception as e:
+        print(f"❌ Error listing topics: {str(e)}")
+    return topics
+
+
+def list_topic_files(topic_path):
+    """Get list of .txt quiz files within a topic folder"""
+    items = []
+    if not topic_path:
+        return items
+    try:
+        if os.path.isdir(topic_path):
+            for fn in sorted(os.listdir(topic_path)):
+                if fn.lower().endswith(".txt"):
+                    full_path = os.path.join(topic_path, fn)
+                    items.append({"label": fn, "value": full_path})
+    except Exception as e:
+        print(f"❌ Error listing files for topic '{topic_path}': {str(e)}")
+    return items
+
+
 def decode_upload(contents):
     """Decode uploaded file contents"""
     content_type, content_string = contents.split(',')
@@ -160,11 +190,16 @@ DEFAULT_QUESTIONS = parse_quiz_text(SAMPLE_TEXT, dedupe=True)
 # Dash App
 ############################
 
-app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
+app = Dash(
+    __name__,
+    external_stylesheets=[dbc.themes.BOOTSTRAP],
+    suppress_callback_exceptions=True
+)
 server = app.server
 
 # Get available files
-quiz_files = list_quiz_files()
+topics = list_topics()
+quiz_files = []
 
 app.layout = dbc.Container(fluid=True, children=[
     # Header
@@ -182,6 +217,20 @@ app.layout = dbc.Container(fluid=True, children=[
             dbc.Card([
                 dbc.CardHeader("📁 Quiz Source", className="h5"),
                 dbc.CardBody([
+                    # Topic selection
+                    dbc.Row([
+                        dbc.Col([
+                            dbc.Label("Select a topic:"),
+                            dcc.Dropdown(
+                                id="topic-dropdown",
+                                options=topics,
+                                placeholder="Choose a topic folder...",
+                                clearable=True,
+                                className="mb-3"
+                            ),
+                        ])
+                    ]),
+
                     # File selection
                     dbc.Row([
                         dbc.Col([
@@ -306,7 +355,6 @@ app.layout = dbc.Container(fluid=True, children=[
                     # Buttons
                     dbc.ButtonGroup([
                         dbc.Button("✅ Submit", id="submit", color="primary", className="me-2"),
-                        dbc.Button("👁️ Reveal", id="reveal", color="info", className="me-2"),
                         dbc.Button("➡️ Next", id="next", color="warning")
                     ], className="mb-3"),
 
@@ -437,8 +485,7 @@ def display_question(questions, order, index):
      Output("history-store", "data", allow_duplicate=True),
      Output("index-store", "data", allow_duplicate=True)],
     [Input("submit", "n_clicks"),
-     Input("next", "n_clicks"),
-     Input("reveal", "n_clicks")],
+     Input("next", "n_clicks")],
     [State("choices", "value"),
      State("questions-store", "data"),
      State("order-store", "data"),
@@ -446,12 +493,26 @@ def display_question(questions, order, index):
      State("history-store", "data")],
     prevent_initial_call=True
 )
-def handle_actions(submit, next_click, reveal, selected, questions, order, index, history):
+def handle_actions(submit, next_click, selected, questions, order, index, history):
     """Handle submit, next, and reveal actions"""
     ctx = callback_context
     trigger = ctx.triggered[0]['prop_id'] if ctx.triggered else None
 
     if trigger == "submit.n_clicks":
+        # Prevent re-submitting the same question: if already in history, return existing feedback
+        if history:
+            prev = next((h for h in history if h.get("index") == index), None)
+            if prev is not None:
+                was_correct = prev.get("correct", False)
+                answer = prev.get("answer")
+                if was_correct:
+                    feedback = f"✅ Correct! The answer is {answer}"
+                    color = "success"
+                else:
+                    feedback = f"❌ Incorrect. The correct answer is {answer}"
+                    color = "danger"
+                return feedback, color, {"display": "block"}, history, index
+
         if not selected:
             return "Please select an answer first!", "danger", {"display": "block"}, history, index
 
@@ -480,12 +541,20 @@ def handle_actions(submit, next_click, reveal, selected, questions, order, index
         new_index = min(index + 1, len(order) - 1)
         return "", "light", {"display": "none"}, history, new_index
 
-    elif trigger == "reveal.n_clicks":
-        question = questions[order[index]]
-        feedback = f"👁️ The correct answer is {question['answer']}: {question['options'][question['answer']]}"
-        return feedback, "secondary", {"display": "block"}, history, index
-
     return "", "light", {"display": "none"}, history, index
+
+
+@app.callback(
+    [Output("file-dropdown", "options"),
+     Output("file-dropdown", "value")],
+    [Input("topic-dropdown", "value")]
+)
+def update_file_options(topic_path):
+    """Update file dropdown based on selected topic folder"""
+    if not topic_path:
+        return [], None
+    options = list_topic_files(topic_path)
+    return options, None
 
 
 @app.callback(
