@@ -1,0 +1,1419 @@
+Q1: Which layer of the atmosphere contains 75% of all atmospheric mass?
+A) Stratosphere
+B) Mesosphere
+C) Troposphere
+D) Thermosphere
+Answer: C
+
+Q2: In which atmospheric layer does temperature increase with altitude?
+A) Troposphere
+B) Mesosphere
+C) Exosphere
+D) Stratosphere
+Answer: D
+
+Q3: Which gas makes up ~78% of Earth's atmosphere?
+A) Oxygen
+B) Carbon dioxide
+C) Nitrogen
+D) Argon
+Answer: C
+
+Q4: Which pollutant is associated with cars and incomplete combustion?
+A) Ozone
+B) Carbon monoxide
+C) Nitrous oxide
+D) Methane
+Answer: B
+
+Q5: Ozone in the stratosphere is important because it absorbs:
+A) Infrared radiation
+B) Visible light
+C) Ultraviolet radiation
+D) Microwaves
+Answer: C
+
+Q6: Temperature inversion occurs when temperature:
+A) Decreases with height
+B) Increases with height
+C) Remains constant
+D) Cycles up and down
+Answer: B
+
+Q7: Which layer contains the auroras?
+A) Troposphere
+B) Mesosphere
+C) Stratosphere
+D) Thermosphere
+Answer: D
+
+Q8: What is the second most abundant gas in the atmosphere?
+A) Argon
+B) Carbon dioxide
+C) Oxygen
+D) Neon
+Answer: C
+
+Q9: Which atmospheric layer is coldest?
+A) Troposphere
+B) Mesosphere
+C) Thermosphere
+D) Exosphere
+Answer: B
+
+Q10: What causes most weather phenomena?
+A) Solar radiation
+B) Earth's magnetic field
+C) Moon's gravity
+D) Plate tectonics
+Answer: A
+
+Solar Radiation & Seasons
+
+Q11: Seasons occur mainly because of:
+A) Earth's distance from the Sun
+B) Earth's tilted axis
+C) Sun’s changing brightness
+D) Earth’s rotation speed
+Answer: B
+
+Q12: The Earth’s axial tilt is approximately:
+A) 10°
+B) 23.5°
+C) 45°
+D) 66.5°
+Answer: B
+
+Q13: Summer in the Northern Hemisphere occurs when the North Pole is:
+A) Tilted away from the Sun
+B) Not tilted at all
+C) Tilted toward the Sun
+D) At its aphelion
+Answer: C
+
+Q14: Insolation is highest when Sun angle is:
+A) Low
+B) Moderate
+C) High
+D) Irrelevant
+Answer: C
+
+Q15: Which location receives the most direct sunlight year-round?
+A) 60° N
+B) Equator
+C) 45° S
+D) 30° N
+Answer: B
+
+Q16: During an equinox:
+A) The Northern Hemisphere is tilted toward the Sun
+B) The Southern Hemisphere is tilted toward the Sun
+C) Day and night are equal everywhere
+D) The poles receive 24-hour daylight
+Answer: C
+
+Q17: Which latitude experiences 24 hours of daylight on June 21?
+A) 66.5° N
+B) 45° N
+C) 23.5° N
+D) 0°
+Answer: A
+
+Q18: Solar radiation reaching Earth’s surface is mostly in which form?
+A) Infrared
+B) Gamma
+C) Ultraviolet
+D) Visible light
+Answer: D
+
+Q19: The greenhouse effect warms Earth because greenhouse gases absorb:
+A) Incoming sunlight
+B) Outgoing infrared radiation
+C) Sound energy
+D) X-rays
+Answer: B
+
+Q20: The Sun emits energy primarily due to:
+A) Chemical reactions
+B) Nuclear fission
+C) Nuclear fusion
+D) Magnetic compression
+Answer: C
+
+More Atmosphere
+
+Q21: Air pressure decreases:
+A) Linearly with height
+B) Exponentially with height
+C) Only above the stratosphere
+D) Only in storms
+Answer: B
+
+Q22: Which layer contains the ozone layer?
+A) Troposphere
+B) Mesosphere
+C) Stratosphere
+D) Thermosphere
+Answer: C
+
+Q23: Which gas acts as the main greenhouse gas in the troposphere?
+A) Water vapor
+B) Nitrogen
+C) Argon
+D) Helium
+Answer: A
+
+Q24: What effect do aerosols typically have?
+A) Increase surface temperatures
+B) Cool Earth by reflecting sunlight
+C) Warm Earth by absorbing IR
+D) Increase greenhouse gases
+Answer: B
+
+Q25: Which is the correct order from lowest to highest?
+A) Troposphere → Stratosphere → Mesosphere → Thermosphere
+B) Stratosphere → Troposphere → Mesosphere → Thermosphere
+C) Mesosphere → Stratosphere → Troposphere → Exosphere
+D) Troposphere → Mesosphere → Stratosphere → Exosphere
+Answer: A
+
+Q26: Which layer has the greatest temperature variation?
+A) Troposphere
+B) Mesosphere
+C) Thermosphere
+D) Stratosphere
+Answer: C
+
+Q27: Most atmospheric ozone is formed when UV radiation splits:
+A) CO₂
+B) O₂
+C) N₂
+D) CH₄
+Answer: B
+
+Q28: Which gas is increasing mostly due to fossil fuels?
+A) Nitrogen
+B) Oxygen
+C) Carbon dioxide
+D) Argon
+Answer: C
+
+Q29: Temperature generally decreases with height in the:
+A) Stratosphere
+B) Thermosphere
+C) Mesosphere
+D) Exosphere
+Answer: C
+
+Q30: Which pollutant contributes most to photochemical smog?
+A) SO₂
+B) NOx
+C) Argon
+D) Helium
+Answer: B
+
+More Solar Radiation
+
+Q31: The Sun’s energy that reaches Earth’s surface is called:
+A) Albedo
+B) Insolation
+C) Transmission
+D) Scattering
+Answer: B
+
+Q32: Why is the equator warmer than the poles?
+A) It’s closer to the Sun
+B) Receives more direct sunlight
+C) Has more greenhouse gases
+D) Rotates slower
+Answer: B
+
+Q33: What causes day length to vary by latitude?
+A) Seasonal winds
+B) Earth’s tilt
+C) Earth's magnetic field
+D) Sunspot cycles
+Answer: B
+
+Q34: When Earth is closest to the Sun (perihelion), it is:
+A) January
+B) April
+C) July
+D) September
+Answer: A
+
+Q35: What determines whether sunlight is direct or diffuse?
+A) Solar angle
+B) Earth's speed
+C) Ocean currents
+D) Seasons only
+Answer: A
+
+Final 15 Questions
+
+Q36: Albedo refers to:
+A) Heat retention
+B) Light absorption
+C) Light reflection
+D) Temperature increase
+Answer: C
+
+Q37: A surface with high albedo will:
+A) Absorb more energy
+B) Reflect more energy
+C) Warm quickly
+D) Emit more IR
+Answer: B
+
+Q38: Earth's energy budget is balanced when:
+A) Incoming = outgoing radiation
+B) CO₂ decreases
+C) Sunspot activity is low
+D) Earth’s tilt is 0°
+Answer: A
+
+Q39: When sunlight enters the atmosphere, most scattering is caused by:
+A) Dust
+B) Nitrogen and oxygen
+C) Ozone
+D) Water vapor
+Answer: B
+
+Q40: The sky appears blue because shorter wavelengths:
+A) Pass through easily
+B) Are absorbed
+C) Scatter more
+D) Reflect off oceans
+Answer: C
+
+Q41: Which hemisphere receives more insolation on December 21?
+A) Northern
+B) Southern
+C) Both equal
+D) Depends on clouds
+Answer: B
+
+Q42: A location with high latitude receives ___ sunlight angle.
+A) High
+B) Low
+C) Medium
+D) Constant
+Answer: B
+
+Q43: Which factor affects Earth’s seasons the least?
+A) Axial tilt
+B) Sun angle
+C) Day length
+D) Distance from Sun
+Answer: D
+
+Q44: During the June solstice, the Sun is directly overhead at:
+A) Equator
+B) Tropic of Cancer
+C) Tropic of Capricorn
+D) North Pole
+Answer: B
+
+Q45: In winter, the sun’s energy is weaker because:
+A) Earth is farther
+B) Sun angle is lower
+C) Air pressure is higher
+D) Oceans cool faster
+Answer: B
+
+Q46: The stratosphere warms with height mainly because of:
+A) Water vapor
+B) UV absorption by ozone
+C) Convection currents
+D) Rising warm air
+Answer: B
+
+Q47: Most weather occurs in the troposphere because:
+A) It contains most greenhouse gases
+B) It is closest to the Sun
+C) It has the highest pressure and moisture
+D) It has strong winds
+Answer: C
+
+Q48: The primary driver of global circulation is:
+A) Seasons
+B) Solar heating differences
+C) Earth’s rotation
+D) Ocean tides
+Answer: B
+
+Q49: Which region has the smallest seasonal temperature variation?
+A) Mid-latitudes
+B) Continental interior
+C) Equator
+D) Poles
+Answer: C
+
+Q50: Which factor increases surface heating the MOST?
+A) Low albedo
+B) High altitude
+C) Strong winds
+D) High ozone
+Answer: A
+
+Q1: Water’s high specific heat is primarily due to:
+A) Hydrogen bonding
+B) High density
+C) Polar winds
+D) Latent heating
+Answer: A
+
+Q2: Latent heat released during condensation is a major energy source for:
+A) Tornado formation
+B) Jet streams
+C) Tropical cyclones
+D) Coronal mass ejections
+Answer: C
+
+Q3: Which phase change releases the MOST latent heat?
+A) Freezing
+B) Condensation
+C) Deposition
+D) Sublimation
+Answer: C
+
+Q4: Water’s density decreases when frozen because:
+A) Hydrogen bonds break
+B) Temperature increases
+C) Molecules form a hexagonal lattice
+D) Salinity rises
+Answer: C
+
+Q5: Oceans heat slower than land because water:
+A) Is less dense
+B) Has lower albedo
+C) Mixes vertically
+D) Has lower thermal inertia
+Answer: C
+
+Q6: Which property most contributes to moderating Earth's climate?
+A) Low density
+B) High specific heat
+C) High albedo
+D) Strong evaporation resistance
+Answer: B
+
+Q7: Which process requires the greatest energy input per gram?
+A) Melting
+B) Evaporation
+C) Condensation
+D) Freezing
+Answer: B
+
+Q8: Which process cools the environment?
+A) Condensation
+B) Freezing
+C) Deposition
+D) Sublimation
+Answer: D
+
+Q9: A gram of water loses 80 cal during:
+A) Melting
+B) Freezing
+C) Sublimation
+D) Condensation
+Answer: B
+
+Q10: Ocean water density increases with:
+A) Increasing temperature
+B) Increasing salinity
+C) Decreasing salinity
+D) Higher cloud cover
+Answer: B
+
+Q11: The largest contribution to hurricane intensification is:
+A) Warm sea-surface temperatures
+B) High wind shear
+C) Low moisture
+D) Weak latent heat release
+Answer: A
+
+Q12: Latent heating in clouds strengthens updrafts because:
+A) Warm rising parcels become denser
+B) Condensation warms the parcel
+C) Pressure decreases
+D) Sublimation absorbs heat
+Answer: B
+
+Q13: During adiabatic cooling, temperature decreases because air:
+A) Absorbs heat from surroundings
+B) Expands and loses internal energy
+C) Compresses
+D) Condenses
+Answer: B
+
+Q14: The MALR (moist adiabatic lapse rate) is lower than DALR because:
+A) Air is colder
+B) Condensation warms rising air
+C) Pressure remains constant
+D) Dew point is lower
+Answer: B
+
+Q15: The latent heat of vaporization is highest when:
+A) At boiling point
+B) Air is saturated
+C) Water temperature is low
+D) Water is salty
+Answer: C
+
+Q16: When a cloud forms, the net effect on the parcel is:
+A) Cooling
+B) Warming
+C) Expansion
+D) No temperature change
+Answer: B
+
+Q17: Ice crystal growth in cold clouds is enhanced by:
+A) High humidity
+B) Bergeron process
+C) Strong sunlight
+D) Low latent heat release
+Answer: B
+
+Q18: The main reason water vapor is a powerful greenhouse gas is:
+A) It is warm
+B) It absorbs longwave IR efficiently
+C) It reflects solar radiation
+D) It condenses easily
+Answer: B
+
+Q19: Warmer ocean temperatures increase evaporation because:
+A) Latent heat decreases
+B) Vapor pressure increases
+C) Air expands
+D) Dew point drops
+Answer: B
+
+Q20: Cloud droplets remain suspended primarily because of:
+A) Low density
+B) Latent heating inside clouds
+C) Updrafts balancing droplet weight
+D) Their chemical composition
+Answer: C
+
+Topic 4 – Atmospheric Moisture, Fog, Dew Point (Advanced)
+
+Q21: Specific humidity differs from relative humidity because it:
+A) Changes with temperature
+B) Decreases with altitude
+C) Measures actual water vapor mass
+D) Depends on cloud cover
+Answer: C
+
+Q22: Dew point equals air temperature when:
+A) Air is unsaturated
+B) Water condenses on surfaces
+C) Sublimation begins
+D) Fog disperses
+Answer: B
+
+Q23: Relative humidity is highest at:
+A) Afternoon
+B) Sunset
+C) Sunrise
+D) Solar noon
+Answer: C
+
+Q24: Condensation nuclei are required because water vapor:
+A) Cannot form droplets spontaneously
+B) Has high surface tension
+C) Evaporates instantly
+D) Is too cold at altitude
+Answer: B
+
+Q25: If air temperature increases but dew point stays constant, RH:
+A) Increases
+B) Decreases
+C) Stays the same
+D) Becomes 100%
+Answer: B
+
+Q26: The mixing ratio increases when:
+A) Temperature increases
+B) Dew point decreases
+C) Cloud cover decreases
+D) Wind increases
+Answer: A
+
+Q27: A temperature inversion promotes which fog type?
+A) Radiation fog
+B) Steam fog
+C) Advection fog
+D) Upslope fog
+Answer: A
+
+Q28: Advection fog forms best when:
+A) Calm clear nights
+B) Moist air flows over a colder surface
+C) Dry air flows over a lake
+D) Clouds dissipate
+Answer: B
+
+Q29: Upslope fog forms due to:
+A) Cooling by expansion
+B) Cooling by conduction
+C) Mixing of air layers
+D) Subsidence
+Answer: A
+
+Q30: Evaporative fog (steam fog) often forms when:
+A) Water is colder than the air
+B) Warm water evaporates into cold air
+C) Dew point increases
+D) Winds shift
+Answer: B
+
+Q31: Frost forms by:
+A) Freezing of dew
+B) Sublimation
+C) Deposition of water vapor
+D) Condensation
+Answer: C
+
+Q32: The lifting condensation level (LCL) is where:
+A) The parcel becomes saturated
+B) Rain begins
+C) Temperature inversion ends
+D) Radiation begins
+Answer: A
+
+Q33: A parcel becomes buoyant above the LFC because:
+A) It is colder than environment
+B) It is warmer than environment
+C) Pressure increases
+D) Dew point decreases
+Answer: B
+
+Q34: Virga occurs when:
+A) Dew point rises
+B) Evaporation exceeds precipitation fall rate
+C) Temperature inversion ends
+D) Clouds warm
+Answer: B
+
+Q35: Dew forms on grass mainly by:
+A) Evaporation
+B) Radiational cooling of ground
+C) Cloud shading
+D) Air pressure drop
+Answer: B
+
+Q36: Fog dissipation typically requires:
+A) Atmospheric cooling
+B) Wind increase or solar heating
+C) RH > 90%
+D) Condensation nuclei
+Answer: B
+
+Q37: Supersaturation occurs when RH:
+A) >100%
+B) 100%
+C) 50%
+D) Depends on cloud type
+Answer: A
+
+Q38: High dew point values indicate:
+A) Dry air
+B) Moist air
+C) Air near freezing
+D) Low humidity
+Answer: B
+
+Q39: A high LCL corresponds to:
+A) Low cloud bases
+B) High cloud bases
+C) Fog formation
+D) Stable conditions
+Answer: B
+
+Q40: Lake-effect snow requires:
+A) Warm water, cold air
+B) Cold water, warm air
+C) Low humidity
+D) High wind shear
+Answer: A
+
+Q41: Clouds form when:
+A) RH rises above 50%
+B) dew point > temperature
+C) temperature drops to the dew point
+D) solar radiation decreases
+Answer: C
+
+Q42: A parcel rising in stable air will:
+A) Continue rising
+B) Return to original level
+C) Rise then accelerate
+D) Form thunderstorms
+Answer: B
+
+Q43: Fog formed by rain falling into dry air is:
+A) Steam fog
+B) Ice fog
+C) Precipitation fog
+D) Valley fog
+Answer: C
+
+Q44: Hygroscopic nuclei allow condensation at:
+A) RH 80%
+B) RH below 100%
+C) RH 10%
+D) RH only above 100%
+Answer: B
+
+Q45: If the dew point is close to the air temperature, the air is:
+A) Very dry
+B) Near saturation
+C) Very warm
+D) Stable
+Answer: B
+
+Q46: At night, RH increases because:
+A) Pressure falls
+B) Temperature decreases
+C) Wind decreases
+D) Clouds form
+Answer: B
+
+Q47: Which factor most strongly controls evaporation rate?
+A) Sun angle
+B) Water salinity
+C) Vapor pressure deficit
+D) Cloud thickness
+Answer: C
+
+Q48: Stratus clouds indicate:
+A) Strong instability
+B) Stable, moist air
+C) Dry, fast winds
+D) Radiative heating
+Answer: B
+
+Q49: Dew point depression is:
+A) Dew point – temperature
+B) Temperature – dew point
+C) Dew point change rate
+D) Mixing ratio difference
+Answer: B
+
+Q50: Fog is most likely when dew point depression is:
+A) Large
+B) Negative
+C) Near zero
+D) Rapidly increasing
+Answer: C
+
+Q1: Which layer of the atmosphere contains 75% of all atmospheric mass?
+A) Stratosphere
+B) Mesosphere
+C) Troposphere
+D) Thermosphere
+Answer: C
+
+Q2: In which atmospheric layer does temperature increase with altitude?
+A) Troposphere
+B) Mesosphere
+C) Exosphere
+D) Stratosphere
+Answer: D
+
+Q3: Which gas makes up ~78% of Earth's atmosphere?
+A) Oxygen
+B) Carbon dioxide
+C) Nitrogen
+D) Argon
+Answer: C
+
+Q4: Which pollutant is associated with cars and incomplete combustion?
+A) Ozone
+B) Carbon monoxide
+C) Nitrous oxide
+D) Methane
+Answer: B
+
+Q5: Ozone in the stratosphere is important because it absorbs:
+A) Infrared radiation
+B) Visible light
+C) Ultraviolet radiation
+D) Microwaves
+Answer: C
+
+Q6: Temperature inversion occurs when temperature:
+A) Decreases with height
+B) Increases with height
+C) Remains constant
+D) Cycles up and down
+Answer: B
+
+Q7: Which layer contains the auroras?
+A) Troposphere
+B) Mesosphere
+C) Stratosphere
+D) Thermosphere
+Answer: D
+
+Q8: What is the second most abundant gas in the atmosphere?
+A) Argon
+B) Carbon dioxide
+C) Oxygen
+D) Neon
+Answer: C
+
+Q9: Which atmospheric layer is coldest?
+A) Troposphere
+B) Mesosphere
+C) Thermosphere
+D) Exosphere
+Answer: B
+
+Q10: What causes most weather phenomena?
+A) Solar radiation
+B) Earth's magnetic field
+C) Moon's gravity
+D) Plate tectonics
+Answer: A
+
+Solar Radiation & Seasons
+
+Q11: Seasons occur mainly because of:
+A) Earth's distance from the Sun
+B) Earth's tilted axis
+C) Sun’s changing brightness
+D) Earth’s rotation speed
+Answer: B
+
+Q12: The Earth’s axial tilt is approximately:
+A) 10°
+B) 23.5°
+C) 45°
+D) 66.5°
+Answer: B
+
+Q13: Summer in the Northern Hemisphere occurs when the North Pole is:
+A) Tilted away from the Sun
+B) Not tilted at all
+C) Tilted toward the Sun
+D) At its aphelion
+Answer: C
+
+Q14: Insolation is highest when Sun angle is:
+A) Low
+B) Moderate
+C) High
+D) Irrelevant
+Answer: C
+
+Q15: Which location receives the most direct sunlight year-round?
+A) 60° N
+B) Equator
+C) 45° S
+D) 30° N
+Answer: B
+
+Q16: During an equinox:
+A) The Northern Hemisphere is tilted toward the Sun
+B) The Southern Hemisphere is tilted toward the Sun
+C) Day and night are equal everywhere
+D) The poles receive 24-hour daylight
+Answer: C
+
+Q17: Which latitude experiences 24 hours of daylight on June 21?
+A) 66.5° N
+B) 45° N
+C) 23.5° N
+D) 0°
+Answer: A
+
+Q18: Solar radiation reaching Earth’s surface is mostly in which form?
+A) Infrared
+B) Gamma
+C) Ultraviolet
+D) Visible light
+Answer: D
+
+Q19: The greenhouse effect warms Earth because greenhouse gases absorb:
+A) Incoming sunlight
+B) Outgoing infrared radiation
+C) Sound energy
+D) X-rays
+Answer: B
+
+Q20: The Sun emits energy primarily due to:
+A) Chemical reactions
+B) Nuclear fission
+C) Nuclear fusion
+D) Magnetic compression
+Answer: C
+
+More Atmosphere
+
+Q21: Air pressure decreases:
+A) Linearly with height
+B) Exponentially with height
+C) Only above the stratosphere
+D) Only in storms
+Answer: B
+
+Q22: Which layer contains the ozone layer?
+A) Troposphere
+B) Mesosphere
+C) Stratosphere
+D) Thermosphere
+Answer: C
+
+Q23: Which gas acts as the main greenhouse gas in the troposphere?
+A) Water vapor
+B) Nitrogen
+C) Argon
+D) Helium
+Answer: A
+
+Q24: What effect do aerosols typically have?
+A) Increase surface temperatures
+B) Cool Earth by reflecting sunlight
+C) Warm Earth by absorbing IR
+D) Increase greenhouse gases
+Answer: B
+
+Q25: Which is the correct order from lowest to highest?
+A) Troposphere → Stratosphere → Mesosphere → Thermosphere
+B) Stratosphere → Troposphere → Mesosphere → Thermosphere
+C) Mesosphere → Stratosphere → Troposphere → Exosphere
+D) Troposphere → Mesosphere → Stratosphere → Exosphere
+Answer: A
+
+Q26: Which layer has the greatest temperature variation?
+A) Troposphere
+B) Mesosphere
+C) Thermosphere
+D) Stratosphere
+Answer: C
+
+Q27: Most atmospheric ozone is formed when UV radiation splits:
+A) CO₂
+B) O₂
+C) N₂
+D) CH₄
+Answer: B
+
+Q28: Which gas is increasing mostly due to fossil fuels?
+A) Nitrogen
+B) Oxygen
+C) Carbon dioxide
+D) Argon
+Answer: C
+
+Q29: Temperature generally decreases with height in the:
+A) Stratosphere
+B) Thermosphere
+C) Mesosphere
+D) Exosphere
+Answer: C
+
+Q30: Which pollutant contributes most to photochemical smog?
+A) SO₂
+B) NOx
+C) Argon
+D) Helium
+Answer: B
+
+More Solar Radiation
+
+Q31: The Sun’s energy that reaches Earth’s surface is called:
+A) Albedo
+B) Insolation
+C) Transmission
+D) Scattering
+Answer: B
+
+Q32: Why is the equator warmer than the poles?
+A) It’s closer to the Sun
+B) Receives more direct sunlight
+C) Has more greenhouse gases
+D) Rotates slower
+Answer: B
+
+Q33: What causes day length to vary by latitude?
+A) Seasonal winds
+B) Earth’s tilt
+C) Earth's magnetic field
+D) Sunspot cycles
+Answer: B
+
+Q34: When Earth is closest to the Sun (perihelion), it is:
+A) January
+B) April
+C) July
+D) September
+Answer: A
+
+Q35: What determines whether sunlight is direct or diffuse?
+A) Solar angle
+B) Earth's speed
+C) Ocean currents
+D) Seasons only
+Answer: A
+
+Final 15 Questions
+
+Q36: Albedo refers to:
+A) Heat retention
+B) Light absorption
+C) Light reflection
+D) Temperature increase
+Answer: C
+
+Q37: A surface with high albedo will:
+A) Absorb more energy
+B) Reflect more energy
+C) Warm quickly
+D) Emit more IR
+Answer: B
+
+Q38: Earth's energy budget is balanced when:
+A) Incoming = outgoing radiation
+B) CO₂ decreases
+C) Sunspot activity is low
+D) Earth’s tilt is 0°
+Answer: A
+
+Q39: When sunlight enters the atmosphere, most scattering is caused by:
+A) Dust
+B) Nitrogen and oxygen
+C) Ozone
+D) Water vapor
+Answer: B
+
+Q40: The sky appears blue because shorter wavelengths:
+A) Pass through easily
+B) Are absorbed
+C) Scatter more
+D) Reflect off oceans
+Answer: C
+
+Q41: Which hemisphere receives more insolation on December 21?
+A) Northern
+B) Southern
+C) Both equal
+D) Depends on clouds
+Answer: B
+
+Q42: A location with high latitude receives ___ sunlight angle.
+A) High
+B) Low
+C) Medium
+D) Constant
+Answer: B
+
+Q43: Which factor affects Earth’s seasons the least?
+A) Axial tilt
+B) Sun angle
+C) Day length
+D) Distance from Sun
+Answer: D
+
+Q44: During the June solstice, the Sun is directly overhead at:
+A) Equator
+B) Tropic of Cancer
+C) Tropic of Capricorn
+D) North Pole
+Answer: B
+
+Q45: In winter, the sun’s energy is weaker because:
+A) Earth is farther
+B) Sun angle is lower
+C) Air pressure is higher
+D) Oceans cool faster
+Answer: B
+
+Q46: The stratosphere warms with height mainly because of:
+A) Water vapor
+B) UV absorption by ozone
+C) Convection currents
+D) Rising warm air
+Answer: B
+
+Q47: Most weather occurs in the troposphere because:
+A) It contains most greenhouse gases
+B) It is closest to the Sun
+C) It has the highest pressure and moisture
+D) It has strong winds
+Answer: C
+
+Q48: The primary driver of global circulation is:
+A) Seasons
+B) Solar heating differences
+C) Earth’s rotation
+D) Ocean tides
+Answer: B
+
+Q49: Which region has the smallest seasonal temperature variation?
+A) Mid-latitudes
+B) Continental interior
+C) Equator
+D) Poles
+Answer: C
+
+Q50: Which factor increases surface heating the MOST?
+A) Low albedo
+B) High altitude
+C) Strong winds
+D) High ozone
+Answer: A
+
+Q1: Water has a high specific heat, meaning it:
+A) Heats quickly
+B) Cools quickly
+C) Changes temperature slowly
+D) Never changes temperature
+Answer: C
+
+Q2: When water condenses, it ___ heat.
+A) Absorbs
+B) Releases
+C) Stores
+D) Neutralizes
+Answer: B
+
+Q3: Latent heat is the energy absorbed or released during:
+A) Temperature change
+B) Phase change
+C) Pressure change
+D) Density change
+Answer: B
+
+Q4: Sensible heat refers to:
+A) Heat that changes temperature
+B) Heat used to melt ice
+C) Heat stored in clouds
+D) Heat released by CO₂
+Answer: A
+
+Q5: Liquid water is densest at what temperature?
+A) 0°C
+B) 2°C
+C) 4°C
+D) 10°C
+Answer: C
+
+Q6: Why does ice float on water?
+A) Ice has higher salinity
+B) Ice is less dense
+C) Ice is warmer
+D) Ice traps more CO₂
+Answer: B
+
+Q7: Evaporation ___ the surrounding air.
+A) Warms
+B) Cools
+C) Has no effect
+D) Pressurizes
+Answer: B
+
+Q8: Which process absorbs the MOST energy?
+A) Freezing
+B) Melting
+C) Condensation
+D) Vaporization
+Answer: D
+
+Q9: The energy needed to evaporate water is called:
+A) Sensible heat
+B) Latent heat of vaporization
+C) Latent heat of fusion
+D) Static heat
+Answer: B
+
+Q10: Water’s high specific heat helps:
+A) Create clouds
+B) Stabilize coastal temperatures
+C) Increase ozone
+D) Strengthen wind shear
+Answer: B
+
+Q11: As water freezes, it:
+A) Contracts
+B) Expands
+C) Becomes denser
+D) Turns metallic
+Answer: B
+
+Q12: The energy released during freezing is:
+A) Latent heat of vaporization
+B) Latent heat of fusion
+C) Sensible heat
+D) Solar heat
+Answer: B
+
+Q13: Ocean water is more dense than freshwater mainly because of:
+A) Temperature differences
+B) Higher salinity
+C) Ice formation
+D) Lower specific heat
+Answer: B
+
+Q14: Which process releases heat into the environment?
+A) Melting
+B) Evaporation
+C) Sublimation
+D) Condensation
+Answer: D
+
+Q15: A wet surface cools because of:
+A) Condensation
+B) Evaporation
+C) Freezing
+D) Absorption
+Answer: B
+
+Q16: Which has the highest specific heat?
+A) Sand
+B) Air
+C) Water
+D) Soil
+Answer: C
+
+Q17: Clouds form when water vapor:
+A) Gains heat
+B) Expands
+C) Condenses
+D) Melts
+Answer: C
+
+Q18: A phase change from solid → gas is:
+A) Deposition
+B) Sublimation
+C) Fusion
+D) Condensation
+Answer: B
+
+Q19: Which absorbs heat?
+A) Melting
+B) Freezing
+C) Condensation
+D) Deposition
+Answer: A
+
+Q20: Why does water take longer to heat than land?
+A) Water absorbs less energy
+B) Water rotates faster
+C) Water has high specific heat
+D) Water reflects sunlight
+Answer: C
+
+Topic 4: Atmospheric Moisture
+
+Q21: Humidity is the amount of ___ in the air.
+A) Liquid water
+B) Water vapor
+C) Ice crystals
+D) Rainfall
+Answer: B
+
+Q22: Dew point is:
+A) Temperature when water boils
+B) Temperature when condensation begins
+C) Maximum humidity level
+D) Cloud height indicator
+Answer: B
+
+Q23: Relative humidity compares:
+A) Water vapor to rainfall
+B) Actual vs. maximum water vapor
+C) Dew point vs. temperature
+D) Cloud cover vs. sunlight
+Answer: B
+
+Q24: When temperature rises and moisture stays the same, relative humidity:
+A) Increases
+B) Decreases
+C) Stays constant
+D) Doubles
+Answer: B
+
+Q25: Saturation occurs when:
+A) RH = 50%
+B) RH = 75%
+C) RH = 100%
+D) Dew point drops
+Answer: C
+
+Q26: Which air mass can hold the MOST water vapor?
+A) Cold air
+B) Warm air
+C) Polar air
+D) Arctic air
+Answer: B
+
+Q27: Fog is:
+A) Low-altitude cloud
+B) Frozen dew
+C) High cirrus cloud
+D) Dust storm
+Answer: A
+
+Q28: Radiation fog forms when:
+A) Warm air moves over cold water
+B) Ground cools overnight
+C) Cold air moves over warm ocean
+D) Steam rises from lakes
+Answer: B
+
+Q29: Advection fog forms when:
+A) Warm moist air moves over cold ground
+B) Cold air moves over warm water
+C) Ice sublimates
+D) Condensation freezes instantly
+Answer: A
+
+Q30: Steam fog forms when:
+A) Warm moist air flows over snow
+B) Cold air moves over warm water
+C) Wind stops completely
+D) Clouds descend rapidly
+Answer: B
+
+Q31: The process that creates frost is:
+A) Freezing
+B) Deposition
+C) Sublimation
+D) Melting
+Answer: B
+
+Q32: Clouds need what to form?
+A) Warm water
+B) Condensation nuclei
+C) Lightning
+D) Wind
+Answer: B
+
+Q33: What lifts air to form clouds along mountains?
+A) Radiation
+B) Orographic lifting
+C) Insulation
+D) Pollutants
+Answer: B
+
+Q34: The ratio of actual water vapor to capacity is:
+A) Specific humidity
+B) Absolute humidity
+C) Relative humidity
+D) Dew point
+Answer: C
+
+Q35: When RH reaches 100%, what forms?
+A) Rain
+B) Dew or cloud droplets
+C) Ice
+D) Fog only
+Answer: B
+
+Q36: What happens to saturation mixing ratio as temperature increases?
+A) Goes down
+B) Goes up
+C) Stays constant
+D) Resets to zero
+Answer: B
+
+Q37: Virga is:
+A) Fog at mountaintops
+B) Precipitation that evaporates before hitting ground
+C) Dust in clouds
+D) Ice forming in warm air
+Answer: B
+
+Q38: Dew forms when:
+A) Surface cools below dew point
+B) Temperature rises
+C) Wind speed increases
+D) Air pressure drops
+Answer: A
+
+Q39: Frost forms instead of dew when:
+A) Air is humid
+B) Dew point is above freezing
+C) Dew point is below freezing
+D) Clouds remain overhead
+Answer: C
+
+Q40: A cloud type that forms from rising warm air is:
+A) Stratus
+B) Cumulus
+C) Cirrus
+D) Nimbostratus
+Answer: B
+
+Q41: Which is true of specific humidity?
+A) Changes with temperature
+B) Independent of air volume
+C) Increases only in winter
+D) Only applies to clouds
+Answer: B
+
+Q42: Humid air is ___ than dry air.
+A) Heavier
+B) Lighter
+C) Same density
+D) Colder
+Answer: B
+
+Q43: Dew point equals temperature when:
+A) Precipitation starts
+B) Air is saturated
+C) Temp drops below freezing
+D) Storms develop
+Answer: B
+
+Q44: Which factor most directly controls cloud type?
+A) Solar flares
+B) Lapse rate
+C) Wind speed
+D) Latitude
+Answer: B
+
+Q45: Fog that forms during rain as evaporating droplets increase humidity is:
+A) Advection fog
+B) Steam fog
+C) Precipitation fog
+D) Valley fog
+Answer: C
+
+Q46: Valley fog is similar to radiation fog but forms:
+A) Only in deserts
+B) Only during storms
+C) When cold air drains into valleys
+D) Only over oceans
+Answer: C
+
+Q47: Which cloud forms during stable atmospheric conditions?
+A) Cirrus
+B) Cumulus
+C) Stratus
+D) Cumulonimbus
+Answer: C
+
+Q48: Moisture capacity of air is measured using:
+A) Solar meter
+B) Hygrometer
+C) Anemometer
+D) Barometer
+Answer: B
+
+Q49: Sling psychrometer measures:
+A) Wind speed
+B) Dew point
+C) Rainfall
+D) Temperature layers
+Answer: B
+
+Q50: When warm moist air rises, it cools due to:
+A) Radiation
+B) Compression
+C) Expansion
+D) Conduction
+Answer: C

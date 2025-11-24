@@ -1,0 +1,349 @@
+1. Relative humidity is defined as:
+A) Ratio of water vapor to dry air
+B) Actual vapor pressure divided by saturation vapor pressure
+C) Amount of dew on the surface
+D) Temperature divided by dew point
+Answer: B
+
+2. Dew point is the temperature at which:
+A) Relative humidity equals 0%
+B) Air becomes completely saturated
+C) Condensation stops
+D) Clouds evaporate
+Answer: B
+
+3. When temperature and dew point are close together, the air is:
+A) Very dry
+B) Very moist
+C) Very unstable
+D) Supercooled
+Answer: B
+
+4. If temperature = dew point, relative humidity is:
+A) 0%
+B) 25%
+C) 75%
+D) 100%
+Answer: D
+
+5. Specific humidity measures:
+A) Vapor pressure only
+B) Mass of water vapor per mass of air
+C) Water droplets in clouds
+D) Cloud-base pressure
+Answer: B
+
+6. Mixing ratio is:
+A) Mass of dry air per mass of water vapor
+B) Mass of water vapor per mass of dry air
+C) Relative humidity
+D) Dew point temperature difference
+Answer: B
+
+7. Vapor pressure increases when:
+A) Temperature decreases
+B) Water vapor decreases
+C) Water vapor increases
+D) Air becomes more stable
+Answer: C
+
+8. Saturation vapor pressure depends primarily on:
+A) Wind speed
+B) Temperature
+C) Dew point
+D) Altitude alone
+Answer: B
+
+9. Warmer air can hold more water vapor because:
+A) Molecules move faster
+B) Hydrogen bonding is stronger
+C) Gravity weakens
+D) Pressure increases sharply
+Answer: A
+
+10. Relative humidity increases when:
+A) Temperature rises
+B) Temperature falls
+C) Dew point decreases
+D) Air sinks
+Answer: B
+
+11. Dew forms when:
+A) Air warms below freezing
+B) Air cools to its dew point
+C) Clouds evaporate
+D) Relative humidity drops
+Answer: B
+
+12. Frost forms when:
+A) Ice melts
+B) Dew freezes
+C) Vapor deposits directly as ice
+D) Winds exceed 25 mph
+Answer: C
+
+13. Condensation nuclei are:
+A) Heavy raindrops
+B) Microscopic particles that water condenses on
+C) Ice crystals only
+D) Large dust grains only
+Answer: B
+
+14. Radiation fog forms mainly due to:
+A) Warm moist air over cold water
+B) Cooling of the ground at night
+C) Cold air moving over warm water
+D) Local thunderstorms
+Answer: B
+
+15. Advection fog forms when:
+A) Warm air moves over a cold surface
+B) Cold air sinks into valleys
+C) Moist air cools upslope
+D) Cold air moves over warm water
+Answer: A
+
+16. Upslope fog forms when:
+A) Warm moist air blows over a lake
+B) Moist air is forced up mountain slopes
+C) Fog evaporates into rain
+D) Air cools by radiation
+Answer: B
+
+17. Steam fog forms when:
+A) Warm water evaporates into colder air
+B) Cold land cools warm moist air
+C) Fog lifts from a valley
+D) Rain evaporates into dry air
+Answer: A
+
+18. Evaporation (mixing) fog forms when:
+A) Cold air drains downslope
+B) Two unsaturated air masses mix and saturate
+C) Air sinks and warms
+D) Ice crystals sublimate
+Answer: B
+
+19. The base of a cloud is determined by:
+A) Cloud droplet size
+B) Temperature inversion height
+C) Lifted condensation level
+D) Amount of precipitation
+Answer: C
+
+20. Clouds form when air:
+A) Sinks and warms
+B) Expands and cools
+C) Compresses and warms
+D) Moves over deserts
+Answer: B
+
+21. The term “latent heat” is important in cloud formation because:
+A) Condensation releases heat
+B) Melting warms air
+C) Evaporation cools clouds
+D) Latent heat stops uplift
+Answer: A
+
+22. Cumulus clouds indicate:
+A) Stable air
+B) Sinking motion
+C) Rising air & convection
+D) Fog formation
+Answer: C
+
+23. Stratus clouds form in:
+A) Stable, gently rising air
+B) Deep convection
+C) Turbulent thunderstorms
+D) Polar stratosphere
+Answer: A
+
+24. Cirrus clouds are composed mainly of:
+A) Supercooled water
+B) Rain-sized droplets
+C) Ice crystals
+D) Fog droplets
+Answer: C
+
+25. A “cloud deck” refers to:
+A) Tops of tall cumulonimbus
+B) Region of cirrostratus
+C) A continuous layer of clouds
+D) Fog at the surface
+Answer: C
+
+26. When temperature increases while dew point stays constant, relative humidity:
+A) Increases
+B) Decreases
+C) Becomes 100%
+D) Stays constant
+Answer: B
+
+27. Saturation occurs when:
+A) Evaporation stops
+B) Condensation rate equals evaporation rate
+C) Dew point increases
+D) Clouds dissipate
+Answer: B
+
+28. If dew point rises, moisture content of air:
+A) Decreases
+B) Increases
+C) Stays constant
+D) Becomes zero
+Answer: B
+
+29. Which cloud type is most associated with overcast skies and steady precipitation?
+A) Cirrus
+B) Cumulus congestus
+C) Nimbostratus
+D) Altocumulus
+Answer: C
+
+30. Fog reduces visibility to:
+A) 5 miles or less
+B) 2 miles or less
+C) 1 mile or less
+D) ¼ mile or less
+Answer: D
+
+31. High-level clouds form above:
+A) 1 km
+B) 2 km
+C) 6 km
+D) 10 km
+Answer: C
+
+32. Mid-level clouds include:
+A) Cirrus, cirrostratus
+B) Altostratus, altocumulus
+C) Stratus, stratocumulus
+D) Cumulonimbus
+Answer: B
+
+33. Fog is essentially:
+A) A cloud on the ground
+B) Vapor under pressure
+C) Turbulent condensation
+D) Sublimation product
+Answer: A
+
+34. Condensation releases heat that:
+A) Weakens thunderstorms
+B) Strengthens rising air parcels
+C) Lowers cloud base
+D) Only occurs at night
+Answer: B
+
+35. The wet-bulb temperature is the lowest temperature achieved by:
+A) Melting
+B) Condensing
+C) Evaporative cooling
+D) Radiative cooling
+Answer: C
+
+36. Dew point is directly related to:
+A) Air temperature only
+B) Moisture content of the air
+C) Pressure of the air
+D) Time of day
+Answer: B
+
+37. Cloud droplets require which of the following to form?
+A) Strong winds
+B) Condensation nuclei
+C) Sublimation
+D) Large raindrops
+Answer: B
+
+38. Radiation fog is thickest:
+A) Before sunrise
+B) At noon
+C) Early afternoon
+D) Just after sunset
+Answer: A
+
+39. Which cloud indicates incoming warm-front precipitation?
+A) Cirrus
+B) Cumulus
+C) Cirrostratus
+D) Stratocumulus
+Answer: C
+
+40. Relative humidity can reach 100% even if:
+A) Dew point is low
+B) Temperature is high
+C) Temperature equals dew point
+D) Air sinks
+Answer: C
+
+41. Moist adiabatic lapse rate is lower than dry because:
+A) Water vapor weighs more than dry air
+B) Condensation releases heat
+C) Air compresses faster when moist
+D) Clouds reduce temperature
+Answer: B
+
+42. When saturated air rises, cloud formation is aided by:
+A) Latent heat release
+B) Latent heat absorption
+C) Advection of warm air downward
+D) Soil evaporation only
+Answer: A
+
+43. A cloud that appears “puffy” with flat bases is:
+A) Stratus
+B) Cumulus
+C) Cirrus
+D) Altostratus
+Answer: B
+
+44. Advection fog is common along:
+A) Rocky Mountains
+B) Gulf Coast
+C) California Coast
+D) Midwest plains
+Answer: C
+
+45. If temperature increases and dew point decreases, relative humidity:
+A) Decreases
+B) Increases
+C) Becomes 100%
+D) Remains unchanged
+Answer: A
+
+46. Which factor MOST controls evaporation rate?
+A) Soil temperature
+B) Wind speed
+C) Cloud height
+D) Cloud type
+Answer: B
+
+47. In cloud formation, air must:
+A) Warm by compression
+B) Reach saturation
+C) Become supercooled
+D) Become completely dry
+Answer: B
+
+48. Fog differs from mist primarily in:
+A) Droplet shape
+B) Chemical composition
+C) Visibility reduction
+D) Temperature
+Answer: C
+
+49. Which cloud is associated with thunderstorms but NOT necessarily severe?
+A) Cumulonimbus
+B) Stratocumulus
+C) Altocumulus
+D) Nimbostratus
+Answer: A
+
+50. Dew forms MOST readily when surfaces:
+A) Are heated by conduction
+B) Cool by radiation under clear skies
+C) Are warmed by sunlight
+D) Are surrounded by dry air
+Answer: B

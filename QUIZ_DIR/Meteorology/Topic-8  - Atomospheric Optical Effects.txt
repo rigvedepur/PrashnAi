@@ -1,0 +1,349 @@
+1. The sky appears blue primarily because of:
+A) Reflection by clouds
+B) Rayleigh scattering of shorter wavelengths
+C) Absorption of blue light by ozone
+D) Refraction of sunlight by dust
+Answer: B
+
+2. Sunsets appear red because:
+A) Red light is absorbed least
+B) The Sun emits more red light near sunset
+C) Blue light is scattered out along long paths
+D) Clouds reflect red wavelengths
+Answer: C
+
+3. Rayleigh scattering is most effective for:
+A) Long wavelengths
+B) Short wavelengths
+C) Infrared radiation
+D) Radio waves
+Answer: B
+
+4. Which phenomenon occurs when light bends passing through layers of different air densities?
+A) Scattering
+B) Absorption
+C) Refraction
+D) Diffraction
+Answer: C
+
+5. A mirage is caused primarily by:
+A) Ice crystals
+B) Dust particles
+C) Strong temperature gradients near the surface
+D) High humidity
+Answer: C
+
+6. A superior mirage occurs when:
+A) Air below is colder than air above
+B) Air below is warmer than air above
+C) Humidity exceeds 80%
+D) Clouds form near the horizon
+Answer: A
+
+7. An inferior mirage (shimmering “water” on hot roads) forms when:
+A) Air near the ground is cooler
+B) Air near the ground is warmer
+C) Ice crystals reflect sunlight
+D) Humidity is very high
+Answer: B
+
+8. Halos form due to:
+A) Scattering by dust
+B) Refraction through ice crystals
+C) Absorption by ozone
+D) Reflection off raindrops
+Answer: B
+
+9. A 22° halo is produced by:
+A) Refraction through hexagonal ice crystals
+B) Reflection from water droplets
+C) Scattering by aerosols
+D) Longwave absorption
+Answer: A
+
+10. Sundogs (parhelia) appear:
+A) Directly overhead
+B) As bright spots to the left and right of the Sun
+C) Only after rain
+D) Only at night
+Answer: B
+
+11. Sundogs form when ice crystals are:
+A) Randomly oriented
+B) Vertically aligned plate crystals
+C) Spherical
+D) Sublimating
+Answer: B
+
+12. A sun pillar forms due to:
+A) Refraction through ice crystals
+B) Multiple reflections off falling plate crystals
+C) Scattering
+D) Diffraction in fog
+Answer: B
+
+13. Rainbows are caused by:
+A) Diffraction by dust
+B) Refraction + reflection inside raindrops
+C) Absorption in the troposphere
+D) Longwave emission
+Answer: B
+
+14. A primary rainbow appears at an angle of approximately:
+A) 10°
+B) 22°
+C) 42°
+D) 70°
+Answer: C
+
+15. A secondary rainbow forms because:
+A) Ice crystals reflect twice
+B) Light undergoes two internal reflections
+C) Water droplets flatten
+D) Light is absorbed more strongly
+Answer: B
+
+16. The order of colors in a primary rainbow is:
+A) Blue to red (top to bottom)
+B) Red to blue (top to bottom)
+C) Red to yellow only
+D) Random
+Answer: B
+
+17. The band order in a secondary rainbow is:
+A) Same as primary
+B) Reverse of primary
+C) Only blue and green
+D) No color separation
+Answer: B
+
+18. Coronas form when:
+A) Light diffracts around small droplets
+B) Ice crystals refract light
+C) Dust absorbs sunlight
+D) Raindrops scatter infrared
+Answer: A
+
+19. Glory (Buddha rings) form due to:
+A) Refraction in ice
+B) Diffraction and backscattering in cloud droplets
+C) Absorption in ozone
+D) Rain reflection only
+Answer: B
+
+20. A fogbow appears white because:
+A) Fog absorbs color
+B) Droplets are too small for strong refraction
+C) Sunlight loses energy
+D) Fog increases albedo
+Answer: B
+
+21. Twilight results from:
+A) Ozone absorption
+B) Scattering of sunlight below the horizon
+C) Infrared emission
+D) Dust reflection only
+Answer: B
+
+22. The “green flash” occurs due to:
+A) Scattering of green wavelengths
+B) Refraction + atmospheric dispersion at sunset
+C) Clouds reflecting green light
+D) Absorption of red wavelengths
+Answer: B
+
+23. Iridescence in clouds is caused by:
+A) Thick cloud layers
+B) Uniform droplet sizes causing diffraction
+C) Very large raindrops
+D) Dust concentration
+Answer: B
+
+24. A halo is most likely seen when the sky contains:
+A) Altostratus
+B) Cirrostratus
+C) Stratocumulus
+D) Fog
+Answer: B
+
+25. Crepuscular rays form when:
+A) Sunlight is refracted
+B) Light beams pass between cloud gaps
+C) Ice crystals reflect sunlight
+D) Dust absorbs radiation
+Answer: B
+
+26. Anticrepuscular rays appear:
+A) Opposite the Sun
+B) Near zenith
+C) Only at night
+D) Inside rainbows
+Answer: A
+
+27. Haze reduces visibility primarily by:
+A) Increasing refraction
+B) Scattering sunlight forward
+C) Absorbing infrared radiation
+D) Reflecting ultraviolet rays
+Answer: B
+
+28. The milky appearance of the Sun through thin clouds is caused by:
+A) Cirrus absorption
+B) Forward scattering
+C) Diffraction only
+D) Rayleigh scattering
+Answer: B
+
+29. The Sun appears redder when smoky haze is present because:
+A) Absorption of blue light increases
+B) Refraction is stronger
+C) Droplets grow larger
+D) Rayleigh scattering stops
+Answer: A
+
+30. The phenomenon causing stars to “twinkle” is:
+A) Refraction from turbulent air
+B) Scattering by cirrus
+C) Ozone absorption
+D) Light reflection
+Answer: A
+
+31. Mirage images appear displaced because:
+A) Light is scattered
+B) Light travels through layers of varying refractive index
+C) Light is absorbed by aerosols
+D) Light reflects off the ground
+Answer: B
+
+32. A heat haze (shimmering pavement effect) is caused by:
+A) Supercooled water
+B) Strong surface heating → refractive index gradients
+C) Fog droplets
+D) Salt particles
+Answer: B
+
+33. The glory phenomenon is seen most often:
+A) On the ground
+B) Opposite the Sun when above clouds
+C) Only in deserts
+D) Only at night
+Answer: B
+
+34. Circumzenithal arcs form:
+A) Opposite the Sun
+B) Near zenith, from horizontally oriented crystals
+C) Only during rain
+D) Only in fog
+Answer: B
+
+35. A rainbow’s brightest region lies:
+A) Inside the arc
+B) Outside the arc
+C) Below the horizon
+D) At the Sun
+Answer: A
+
+36. A secondary rainbow appears:
+A) Inside the primary
+B) Outside the primary
+C) Only at 90°
+D) At zenith
+Answer: B
+
+37. The Brocken spectre occurs when:
+A) A shadow is cast on fog/cloud below an observer
+B) A halo appears around the Moon
+C) Snow crystals refract light
+D) Turbulent scattering occurs
+Answer: A
+
+38. A sun pillar is vertically aligned because:
+A) Reflection occurs from vertical ice crystals
+B) Refraction bends light upward
+C) Clouds absorb all horizontal light
+D) Light is scattered evenly
+Answer: A
+
+39. Corona size increases when:
+A) Droplets are larger
+B) Droplets are smaller
+C) Crystals are hexagonal
+D) Haze is thick
+Answer: B
+
+40. Halos appear around the Moon when:
+A) Air is very dry
+B) Cirrostratus clouds contain ice crystals
+C) Fog droplets grow large
+D) Snow is melting
+Answer: B
+
+41. A circumhorizontal arc occurs when the Sun is:
+A) Very low
+B) Very high (>58° above horizon)
+C) Below horizon
+D) Behind mountains
+Answer: B
+
+42. The green flash can only be seen when:
+A) The Sun is high
+B) The horizon is unobstructed
+C) Clouds cover the Sun
+D) Humidity is high
+Answer: B
+
+43. The sky is darkest overhead because:
+A) More absorption of UV
+B) Shorter path length reduces scattering
+C) Longwave radiation is weaker
+D) Thermosphere emits less light
+Answer: B
+
+44. A faint white ring around the Sun caused by diffraction is a:
+A) Halo
+B) Corona
+C) Sun pillar
+D) Sundog
+Answer: B
+
+45. Sun dogs are most common when:
+A) Air is humid
+B) Thin cirrus with plate crystals are present
+C) Fog is thick
+D) Rain is falling
+Answer: B
+
+46. High humidity enhances scattering by:
+A) Shrinking droplets
+B) Growing droplets → more light scattering
+C) Removing aerosols
+D) Compressing air
+Answer: B
+
+47. Why is the Moon sometimes orange near the horizon?
+A) Rayleigh scattering removes blue light
+B) Moonlight increases
+C) High-level ice clouds refract light
+D) Refraction increases green wavelengths
+Answer: A
+
+48. Rainbows require sunlight to be:
+A) Higher than 60°
+B) Lower than 42°
+C) Directly overhead
+D) Below the horizon
+Answer: B
+
+49. “Glories” are strongest when cloud droplets:
+A) Are large and uneven
+B) Are small and uniform
+C) Freeze rapidly
+D) Grow by collision
+Answer: B
+
+50. A moonbow (lunar rainbow) requires:
+A) Full Moon + bright moonlight + rain opposite Moon
+B) Cirrostratus clouds
+C) Cold temperatures
+D) Thin fog only
+Answer: A

@@ -1,0 +1,349 @@
+1. The primary source of energy that drives Earth’s weather and climate is:
+A) Longwave radiation from Earth
+B) Solar radiation from the Sun
+C) Geothermal heat
+D) Tidal forces
+Answer: B
+
+2. The Sun emits most of its energy in which part of the electromagnetic spectrum?
+A) Gamma rays
+B) Visible and near-infrared
+C) Microwaves
+D) Radio waves
+Answer: B
+
+3. The Earth emits most of its radiation in the:
+A) Longwave infrared range
+B) Ultraviolet range
+C) Visible range
+D) Microwave range
+Answer: A
+
+4. The Earth's axis is tilted at approximately:
+A) 10°
+B) 15°
+C) 23.5°
+D) 35°
+Answer: C
+
+5. Seasons occur primarily because of:
+A) Changing distance between Earth and the Sun
+B) Tilt of Earth’s axis
+C) Changes in solar output
+D) Lunar orbit
+Answer: B
+
+6. Solar radiation is strongest when the Sun is:
+A) Near the horizon
+B) Low in the sky
+C) Directly overhead
+D) Behind clouds
+Answer: C
+
+7. The longest day of the year in the Northern Hemisphere occurs around:
+A) March 21
+B) June 21
+C) September 21
+D) December 21
+Answer: B
+
+8. The shortest day of the year in the Northern Hemisphere occurs near:
+A) March equinox
+B) June solstice
+C) September equinox
+D) December solstice
+Answer: D
+
+9. During the June solstice, the Sun's direct rays strike:
+A) Equator
+B) Tropic of Cancer
+C) Tropic of Capricorn
+D) Arctic Circle
+Answer: B
+
+10. During the December solstice, the Sun's direct rays strike:
+A) Tropic of Cancer
+B) Tropic of Capricorn
+C) Equator
+D) North Pole
+Answer: B
+
+11. On the equinoxes, the Sun is directly overhead at:
+A) 23.5°N
+B) 23.5°S
+C) 0°
+D) 66.5°N
+Answer: C
+
+12. On an equinox, all places on Earth experience approximately:
+A) 6 hours of daylight
+B) 12 hours of daylight
+C) 18 hours of daylight
+D) 24 hours of daylight
+Answer: B
+
+13. The Arctic Circle experiences 24 hours of daylight during the:
+A) December solstice
+B) March equinox
+C) June solstice
+D) September equinox
+Answer: C
+
+14. The Antarctic Circle experiences 24 hours of darkness during the:
+A) June solstice
+B) September equinox
+C) December solstice
+D) March equinox
+Answer: A
+
+15. A location experiences higher solar intensity when:
+A) Sun angle is lower
+B) Sun angle is higher
+C) Albedo increases
+D) Days are shorter
+Answer: B
+
+16. Earth is closest to the Sun (perihelion) around:
+A) January 3
+B) March 20
+C) July 4
+D) October 1
+Answer: A
+
+17. Earth is farthest from the Sun (aphelion) around:
+A) January
+B) April
+C) July
+D) October
+Answer: C
+
+18. The difference in heating between the equator and poles is mainly due to:
+A) Distance from the Sun
+B) Sun angle & beam spreading
+C) Cloud cover
+D) Ocean salinity
+Answer: B
+
+19. The process by which sunlight is scattered by gases and particles is called:
+A) Absorption
+B) Reflection
+C) Scattering
+D) Transmission
+Answer: C
+
+20. Which color of visible light is scattered most effectively by the atmosphere?
+A) Red
+B) Green
+C) Yellow
+D) Blue
+Answer: D
+
+21. The sky appears blue because:
+A) Ozone absorbs UV
+B) Nitrogen emits blue light
+C) Rayleigh scattering favors shorter wavelengths
+D) Clouds reflect sunlight
+Answer: C
+
+22. Solar declination refers to:
+A) Earth’s distance from Sun
+B) Latitude where Sun is directly overhead
+C) Angle of incoming longwave radiation
+D) Surface albedo
+Answer: B
+
+23. Low sun angles produce weaker heating because:
+A) Sunlight is stronger
+B) Sunlight passes through less atmosphere
+C) The beam is spread over a larger surface area
+D) Atmospheric pressure decreases
+Answer: C
+
+24. Albedo is:
+A) Amount of heat emitted
+B) Percentage of incoming sunlight reflected
+C) Longwave radiation absorbed
+D) Amount of solar energy generated
+Answer: B
+
+25. Snow-covered surfaces typically have an albedo around:
+A) 10%
+B) 20–30%
+C) 50%
+D) 80–90%
+Answer: D
+
+26. Dark forested or ocean surfaces have albedos around:
+A) 5–15%
+B) 20–25%
+C) 40–50%
+D) 70–80%
+Answer: A
+
+27. Energy transferred from the Sun to Earth travels primarily by:
+A) Conduction
+B) Convection
+C) Radiation
+D) Latent heat
+Answer: C
+
+28. The greenhouse effect involves:
+A) Absorption of UV
+B) Absorption of longwave radiation by gases
+C) Reflection of sunlight by Earth
+D) Only water vapor cooling
+Answer: B
+
+29. The term “insolation” refers to:
+A) Longwave radiation emitted by Earth
+B) Energy from the Sun reaching Earth’s surface
+C) Heat stored in the atmosphere
+D) Latent heat of condensation
+Answer: B
+
+30. The tropics receive more solar energy annually because:
+A) They are closest to the Sun
+B) Sun angle is consistently high
+C) They rotate slower
+D) They have less water vapor
+Answer: B
+
+31. During Northern Hemisphere summer, Earth is:
+A) Closer to the Sun
+B) Farther from the Sun
+C) Unaffected by distance
+D) Tilted away from the Sun
+Answer: B
+
+32. Which hemisphere has more moderate seasons due to greater ocean coverage?
+A) Northern Hemisphere
+B) Southern Hemisphere
+C) Both equally
+D) Tropics only
+Answer: B
+
+33. Solar radiation reaching Earth’s surface is reduced by:
+A) Conduction
+B) Tropospheric ozone
+C) Scattering, reflection, and absorption
+D) Rotation
+Answer: C
+
+34. Which has the highest albedo?
+A) Ocean
+B) Asphalt
+C) Desert sand
+D) Fresh snow
+Answer: D
+
+35. The Sun appears highest in the sky at:
+A) Solar noon
+B) Sunrise
+C) Mid-afternoon
+D) Sunset
+Answer: A
+
+36. Beam spreading is greatest when:
+A) Sun is high
+B) Sun is low
+C) Cloud cover is absent
+D) Humidity is high
+Answer: B
+
+37. The subsolar point migrates between:
+A) 0° and 90°N
+B) 23.5°N and 23.5°S
+C) 30°N and 60°S
+D) 66.5°N and 66.5°S
+Answer: B
+
+38. During an equinox, which region sees the Sun rise exactly due east and set due west?
+A) Equator only
+B) Midlatitudes only
+C) Poles only
+D) All locations on Earth
+Answer: D
+
+39. Atmospheric gases that absorb incoming shortwave radiation include:
+A) Water vapor and CO₂
+B) O₃ in the stratosphere
+C) Argon
+D) Nitrogen
+Answer: B
+
+40. The high reflectivity of clouds is due to:
+A) Water vapor
+B) CO₂ absorption
+C) High albedo of cloud droplets
+D) Ozone
+Answer: C
+
+41. Solar energy transfer stops at night because:
+A) Earth’s tilt reverses
+B) Sun is below horizon
+C) Greenhouse gases weaken
+D) Air absorbs all energy
+Answer: B
+
+42. Which hemisphere's summer occurs when Earth is at aphelion?
+A) Northern Hemisphere
+B) Southern Hemisphere
+C) Both
+D) Neither
+Answer: A
+
+43. The Antarctic experiences 24 hours of daylight during the:
+A) March equinox
+B) September equinox
+C) June solstice
+D) December solstice
+Answer: D
+
+44. The amount of solar radiation received at Earth’s surface is greatest when:
+A) Surface albedo is high
+B) Sun angle is high and atmosphere is clear
+C) Humidity is high
+D) Sun angle is low
+Answer: B
+
+45. During winter in the Northern Hemisphere:
+A) North Pole is tilted toward the Sun
+B) Southern Hemisphere receives more insolation
+C) Equator is in total darkness
+D) Days are longer in the north
+Answer: B
+
+46. Solar energy decreases with latitude primarily because:
+A) Earth rotates slower at poles
+B) Sunlight is more spread out
+C) Air is thinner at poles
+D) Clouds only form at equator
+Answer: B
+
+47. The Sun’s energy output is classified as:
+A) Longwave
+B) Shortwave
+C) Conduction
+D) Latent heat
+Answer: B
+
+48. Which factor causes seasonal temperature lag?
+A) Distance from the Sun
+B) High thermal inertia of land
+C) High thermal inertia of water
+D) Ozone absorption
+Answer: C
+
+49. Why are sunsets red?
+A) Clouds reflect all colors
+B) Sunlight is absorbed
+C) Long wavelengths scatter least
+D) Rayleigh scattering increases red wavelengths
+Answer: C
+
+50. During the equinox, the solar declination is:
+A) 23.5°N
+B) 23.5°S
+C) 0°
+D) 66.5°N
+Answer: C

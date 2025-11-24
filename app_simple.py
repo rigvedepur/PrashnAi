@@ -18,19 +18,17 @@ os.environ['QUIZ_DIR'] = QUIZ_DIR
 # Ensure QUIZ_DIR exists
 os.makedirs(QUIZ_DIR, exist_ok=True)
 print(f"📂 Using quiz directory: {os.path.abspath(QUIZ_DIR)}")
-print(f"📝 Place your quiz .txt files in this directory")
-
 ############################
 # Parsing & Utilities
 ############################
 
 QA_BLOCK_RE = re.compile(
-    r"(?ms)^Q\s*(\d+)\s*:\s*(.*?)\n\s*A\)\s*(.*?)\n\s*B\)\s*(.*?)\n\s*C\)\s*(.*?)\n\s*D\)\s*(.*?)\n\s*Answer\s*:\s*([ABCD])\s*$")
+    r"(?ms)^(?:Q\s*)?(\d+)\s*(?::|\.)\s*(.*?)\n\s*A\)\s*(.*?)\n\s*B\)\s*(.*?)\n\s*C\)\s*(.*?)\n\s*D\)\s*(.*?)\n\s*Answer\s*:\s*([ABCD])\s*$")
+
 
 
 def clean_text(s: str) -> str:
     return re.sub(r"\s+", " ", s).strip()
-
 
 def normalize_stem(stem: str) -> str:
     stem = re.sub(r"\(variant[^\)]*\)", "", stem, flags=re.IGNORECASE)
@@ -56,8 +54,11 @@ def parse_quiz_text(text: str, dedupe=True, max_questions=25):
         blocks.append(block)
 
     if not blocks:
-        # Try to be forgiving: chunk by 'Q' lines and rescan inside chunks
-        chunks = re.split(r"(?m)^(?=Q\s*\d+\s*:)", text)
+        # Try to be forgiving: chunk by lines that look like question starts in either format
+        # Supports:
+        #  - Q1: ...
+        #  - 1.  ...
+        chunks = re.split(r"(?m)^(?=(?:Q\s*)?\d+\s*(?::|\.))", text)
         for ch in chunks:
             m = QA_BLOCK_RE.search(ch)
             if m:
@@ -264,19 +265,6 @@ app.layout = dbc.Container(fluid=True, children=[
                             ),
                         ])
                     ]),
-
-                    # Buttons
-                    dbc.Row([
-                        dbc.Col([
-                            dbc.Button(
-                                "🎲 Random 25",
-                                id="reset",
-                                color="danger",
-                                className="w-100 mb-3"
-                            ),
-                        ])
-                    ]),
-
                     # Status
                     dbc.Alert(
                         "Please select a quiz file to begin",
@@ -285,14 +273,11 @@ app.layout = dbc.Container(fluid=True, children=[
                         className="mb-3",
                         style={"wordBreak": "break-word"}
                     ),
-
-                    # Info
                     dbc.Alert(
-                        "ℹ️ Quiz loads up to 25 questions. Use 'Random 25' to get a new random set.",
+                        "ℹ️ On file selection, 50 random questions are loaded (or all if fewer than 50).",
                         color="info",
                         className="small p-2 mb-3"
                     ),
-
                     # Results Section
                     html.Hr(className="my-3"),
                     html.H5("📊 Results", className="mb-3"),
@@ -391,38 +376,23 @@ app.layout.children.extend([
      Output("history-store", "data"),
      Output("status", "children"),
      Output("status", "color")],
-    [Input("reset", "n_clicks"),
-     Input("file-dropdown", "value")],
+    [Input("file-dropdown", "value")],
     [State("dedupe", "value"),
      State("shuffle", "value"),
      State("all-questions-store", "data")]
 )
-def load_quiz(reset, file_path, dedupe, shuffle, all_questions):
+def load_quiz(file_path, dedupe, shuffle, all_questions):
     """Load quiz questions from various sources"""
-    ctx = callback_context
-    trigger = ctx.triggered[0]['prop_id'] if ctx.triggered else None
-
     dedupe_on = dedupe and "on" in dedupe
     shuffle_on = shuffle and "on" in shuffle
-
-    if trigger == "reset.n_clicks":
-        # Reset button: load random 25 questions from all available questions
-        if all_questions and len(all_questions) > 0:
-            questions = get_random_questions(all_questions, 25)
-            status = f"✅ Loaded random {len(questions)} questions"
-            color = "success"
-        else:
-            questions = []
-            all_questions = []
-            status = "⚠️ Select a quiz file first"
-            color = "warning"
-    elif trigger == "file-dropdown.value" and file_path:
+    
+    if file_path:
         try:
             with open(file_path, 'r', encoding='utf-8', errors='ignore') as f:
                 text = f.read()
             all_questions = parse_quiz_text(text, dedupe=dedupe_on, max_questions=1000)
-            questions = all_questions[:25]  # Show first 25
-            status = f"✅ Loaded {len(questions)} of {len(all_questions)} questions from {os.path.basename(file_path)}"
+            questions = get_random_questions(all_questions, 50)  # Load random 50
+            status = f"✅ Loaded {len(questions)} random questions from {os.path.basename(file_path)} (source has {len(all_questions)})"
             color = "success"
         except Exception as e:
             questions = DEFAULT_QUESTIONS

@@ -1,0 +1,349 @@
+1. Precipitation forms when cloud droplets or ice crystals:
+A) Remain suspended indefinitely
+B) Grow large enough to fall through the air
+C) Evaporate before reaching the surface
+D) Are blown away by wind
+Answer: B
+
+2. Drizzle consists of:
+A) Ice pellets
+B) Very small water droplets (<0.5 mm)
+C) Snow crystals
+D) Supercooled hailstones
+Answer: B
+
+3. Rain is defined as liquid precipitation with droplet diameters:
+A) <0.2 mm
+B) <0.5 mm
+C) >0.5 mm
+D) >5 mm
+Answer: C
+
+4. Sleet (ice pellets) forms when:
+A) Snow melts then refreezes before reaching the ground
+B) Liquid drops freeze upon contact with objects
+C) Snow never melts at all
+D) Cloud droplets evaporate
+Answer: A
+
+5. Freezing rain forms when:
+A) Snow partially melts and refreezes mid-air
+B) Rain freezes on contact with cold surfaces
+C) Drops freeze in the cloud
+D) Air temperature is above freezing at all levels
+Answer: B
+
+6. Snowflakes form through:
+A) Collision–coalescence only
+B) Accretion of supercooled water onto ice crystals
+C) Condensation of water vapor onto dust
+D) Freezing of raindrops
+Answer: B
+
+7. Graupel forms when:
+A) Ice crystals fall into warm air
+B) Supercooled droplets freeze onto snow crystals
+C) Rain freezes on the surface
+D) Fog evaporates into dry air
+Answer: B
+
+8. Hail grows primarily in:
+A) Stratus clouds
+B) Warm fronts
+C) Strong thunderstorm updrafts
+D) Mid-level stable layers
+Answer: C
+
+9. Large hailstones require:
+A) Weak updrafts
+B) Multiple cycles through updraft regions
+C) Slow vertical motion
+D) Warm stable air
+Answer: B
+
+10. Snow grains typically occur during:
+A) Blizzard conditions
+B) Stratus clouds and fog
+C) Severe thunderstorms
+D) Cold front passage
+Answer: B
+
+11. Blizzard conditions require:
+A) Snowfall only
+B) Strong winds + low visibility for ≥3 hours
+C) Temperature below 0°C
+D) Ice storms
+Answer: B
+
+12. Whiteout conditions occur when:
+A) Fog forms over snow
+B) Snowfall + blowing snow remove all horizon contrast
+C) Visibility is >1 mile
+D) Sunlight reflects off ice
+Answer: B
+
+13. Floods and flash floods are more likely when:
+A) Dew point is low
+B) Soil is dry
+C) Ground is saturated or rainfall is intense
+D) Temperatures are cold
+Answer: C
+
+14. Supercooled water droplets exist at temperatures:
+A) 0°C and above only
+B) Below −40°C
+C) 0°C to −40°C
+D) Only in tropical clouds
+Answer: C
+
+15. Aircraft icing occurs mainly when planes fly through:
+A) Dry air
+B) Ice crystals only
+C) Supercooled cloud droplets
+D) Ozone holes
+Answer: C
+
+16. Rime ice forms when:
+A) Freezing rain coats surfaces with smooth ice
+B) Large drops splash-freeze
+C) Small supercooled droplets freeze instantly on impact
+D) Water vapor deposits directly as ice
+Answer: C
+
+17. Glaze ice (clear ice) forms when:
+A) Drizzle freezes instantly
+B) Large supercooled drops freeze slowly
+C) Ice crystals sublimate
+D) Snow grains melt
+Answer: B
+
+18. The collision–coalescence process is most effective in:
+A) Cold clouds
+B) Warm tropical clouds
+C) High cirrus
+D) Winter fronts
+Answer: B
+
+19. The Bergeron process involves:
+A) Warm rain formation
+B) Ice crystal growth in mixed-phase clouds
+C) Sublimation only
+D) Thunderstorm downdrafts
+Answer: B
+
+20. Freezing drizzle occurs when:
+A) Drizzle droplets freeze before falling
+B) Supercooled drizzle freezes upon contact
+C) Drizzle evaporates in midair
+D) Only snow is present
+Answer: B
+
+21. A “snowburst” refers to:
+A) Blizzard winds
+B) Intense, short-lived snowfall
+C) Lake-effect rain
+D) Melting hailstones
+Answer: B
+
+22. Lake-effect snow forms when:
+A) Cold air flows over warm lake water
+B) Warm air flows over cold lakes
+C) Lakes freeze completely
+D) Air sinks rapidly
+Answer: A
+
+23. Ice storms are primarily caused by:
+A) Wind shear
+B) Freezing rain
+C) Strong thunderstorms
+D) Snow grains hitting surfaces
+Answer: B
+
+24. Which precipitation type causes the most tree and power line damage?
+A) Snow
+B) Sleet
+C) Freezing rain
+D) Drizzle
+Answer: C
+
+25. A microburst is caused by:
+A) Rising warm air
+B) Rapid melting of snow
+C) Strong downdrafts from evaporative cooling
+D) Warm frontal lift
+Answer: C
+
+26. Flooding is more severe in urban areas because:
+A) Clouds are lower
+B) Surfaces cause more evaporation
+C) Impermeable surfaces increase runoff
+D) Air pollution absorbs rainfall
+Answer: C
+
+27. Virga occurs when:
+A) Ice crystals form in the cloud
+B) Rain evaporates before reaching the surface
+C) Snow grains melt quickly
+D) Hail grows in updrafts
+Answer: B
+
+28. The difference between sleet and freezing rain is that:
+A) Sleet is liquid, freezing rain is ice pellets
+B) Sleet freezes before surface impact
+C) Freezing rain freezes in the air
+D) Both freeze before impact
+Answer: B
+
+29. Heavy snow occurs when:
+A) Temperature is below −20°C
+B) Moist air rises and cools rapidly
+C) Only convective clouds form
+D) Mixing ratio is low
+Answer: B
+
+30. Drizzle forms in:
+A) Deep cumulonimbus clouds
+B) Stratus clouds with shallow depth
+C) Cirrus clouds
+D) Supercells
+Answer: B
+
+31. Graupel differs from hail because graupel:
+A) Is transparent
+B) Forms only in tropical clouds
+C) Has a soft, frosty appearance
+D) Requires giant hail embryos
+Answer: C
+
+32. Snowflakes develop their shape from:
+A) Ice crystal habit depending on temperature and humidity
+B) Wind speed
+C) Surface dust
+D) Air pressure only
+Answer: A
+
+33. Widespread flooding is common in:
+A) Slow-moving storms
+B) Dry lines
+C) Tornado outbreaks
+D) Cirrus decks
+Answer: A
+
+34. Flash floods occur when:
+A) Snow melts slowly
+B) Rain falls over large areas
+C) Rainfall intensity is extreme
+D) Dew point drops sharply
+Answer: C
+
+35. A “downburst” is:
+A) Upward surge of air
+B) Localized descending column of air
+C) Airflow from warm fronts
+D) Fog formation in valleys
+Answer: B
+
+36. “Blowing snow” refers to:
+A) Snowfall only
+B) Snow lifted from the surface by wind
+C) Snow melting in air
+D) Fog mixed with snow
+Answer: B
+
+37. The most important factor in hailstone size is:
+A) Surface temperature
+B) Updraft strength
+C) Cloud-top height
+D) Humidity at the surface
+Answer: B
+
+38. Ice crystal growth by deposition occurs when:
+A) Vapor pressure over ice < vapor pressure over liquid
+B) Liquid water is warmer
+C) Sublimation slows
+D) Droplets evaporate
+Answer: A
+
+39. Freezing drizzle is especially dangerous for:
+A) Roads
+B) High mountain peaks
+C) Tropical beaches
+D) Upper stratosphere
+Answer: A
+
+40. Snow is more likely when:
+A) Entire vertical profile is above 0°C
+B) There is a deep freezing layer
+C) Dew point is far from temperature
+D) Air sinks
+Answer: B
+
+41. Heavy graupel showers often indicate:
+A) Extremely stable air
+B) Weak thunderstorms
+C) Strong convective updrafts
+D) High fog formation
+Answer: C
+
+42. Rain shafts are visible when:
+A) Snow melts
+B) Condensed water collects sunlight
+C) Precipitation falls from a cloud in a column
+D) Air is extremely dry
+Answer: C
+
+43. An ice storm requires:
+A) Strong winds
+B) Deep freezing layer aloft
+C) Warm layer aloft + cold surface
+D) Vertical motion only
+Answer: C
+
+44. Blowing snow is separate from falling snow because it:
+A) Is liquid
+B) Comes from the surface
+C) Is chemically different
+D) Needs warm air
+Answer: B
+
+45. Which precipitation type forms exclusively in cumulonimbus clouds?
+A) Drizzle
+B) Snow
+C) Graupel
+D) Hail
+Answer: D
+
+46. Strong, sudden melting of snowpacks can cause:
+A) Tornadoes
+B) Flooding
+C) Hail
+D) Ice fog
+Answer: B
+
+47. Heavy precipitation hazards increase when:
+A) Precipitable water is low
+B) Soil is saturated
+C) Air is very stable
+D) Winds are calm
+Answer: B
+
+48. Rain–snow line depends mainly on:
+A) Wind direction
+B) Temperature profile with height
+C) Cloud thickness
+D) Dew point only
+Answer: B
+
+49. Cold-air damming increases the likelihood of:
+A) Drizzle
+B) Fog
+C) Freezing rain
+D) Thunderstorms
+Answer: C
+
+50. The most dangerous precipitation type for aviation is:
+A) Snow grains
+B) Light hail
+C) Freezing rain
+D) Drizzle
+Answer: C

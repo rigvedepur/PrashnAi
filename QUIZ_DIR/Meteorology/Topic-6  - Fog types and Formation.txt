@@ -1,0 +1,349 @@
+1. Fog is best defined as:
+A) Evaporating cloud droplets
+B) A cloud in contact with the ground
+C) Condensation above the tropopause
+D) Ice crystals falling to the surface
+Answer: B
+
+2. Radiation fog forms primarily due to:
+A) Advection of cold air
+B) Rapid ground cooling at night
+C) Warm air rising over mountains
+D) Ocean upwelling
+Answer: B
+
+3. Radiation fog is most common when nights are:
+A) Cloudy and windy
+B) Cloudy and calm
+C) Clear and calm
+D) Clear and windy
+Answer: C
+
+4. Advection fog forms when:
+A) Warm moist air moves over a colder surface
+B) Cold air moves over a warm surface
+C) Air sinks and compresses
+D) Rain evaporates into dry air
+Answer: A
+
+5. Sea fog is typically a form of:
+A) Upslope fog
+B) Advection fog
+C) Evaporation fog
+D) Ice fog
+Answer: B
+
+6. Ice fog forms most commonly in:
+A) Tropical regions
+B) Desert basins
+C) Extremely cold Arctic environments
+D) Midlatitude thunderstorms
+Answer: C
+
+7. Upslope fog forms when:
+A) Moist air is forced up terrain and cools adiabatically
+B) Air warms over a mountain
+C) Air descends rapidly
+D) Fog evaporates from valleys
+Answer: A
+
+8. Steam fog forms when:
+A) Warm air moves over cold water
+B) Cold air moves over warm water
+C) Saturated air moves downslope
+D) Rain evaporates in dry air
+Answer: B
+
+9. Steam fog is common above:
+A) Frozen lakes
+B) Warm lakes on cold mornings
+C) Deserts
+D) Tropical oceans in summer
+Answer: B
+
+10. Evaporation fog forms when:
+A) Warm moist air rises and cools
+B) Cold air mixes with warm, humid air
+C) Dewpoint increases
+D) Strong winds mix fog layers
+Answer: B
+
+11. Valley fog tends to form because:
+A) Cold dense air drains downhill and cools
+B) Air rises through convection
+C) Winds mix all air masses
+D) Mountains absorb heat
+Answer: A
+
+12. Frontal fog forms when:
+A) Air cools radiatively in a valley
+B) Rain evaporates into cooler air ahead of a front
+C) Warm air flows downslope
+D) Air sinks in high pressure
+Answer: B
+
+13. Which fog type results from saturation by evaporation?
+A) Advection fog
+B) Steam fog
+C) Upslope fog
+D) Radiation fog
+Answer: B
+
+14. Which fog type requires wind to form?
+A) Radiation fog
+B) Steam fog
+C) Advection fog
+D) Ice fog
+Answer: C
+
+15. Radiation fog dissipates mainly when:
+A) Clouds increase
+B) Winds increase
+C) Sun heats the surface
+D) Dew point falls sharply
+Answer: C
+
+16. Advection fog dissipates mainly when:
+A) The wind direction changes
+B) Air warms from below
+C) Dew forms
+D) Upper-level clouds evaporate
+Answer: B
+
+17. The thickest fog forms under:
+A) Clear, calm nights
+B) Cloudy, windy nights
+C) Desert afternoons
+D) Frontal passages
+Answer: A
+
+18. Ice fog occurs when temperatures are typically below:
+A) 0°C
+B) –5°C
+C) –10°C
+D) –30°C
+Answer: D
+
+19. Dense tule fog is a form of:
+A) Ice fog
+B) Radiation fog
+C) Upslope fog
+D) Steam fog
+Answer: B
+
+20. Fog reduces visibility to:
+A) Less than 2 miles
+B) Less than 1 mile
+C) Less than ½ mile
+D) Less than ¼ mile
+Answer: D
+
+21. When warm rain falls into a cold air mass, ______ fog may form:
+A) Steam
+B) Upslope
+C) Evaporation
+D) Radiation
+Answer: C
+
+22. Coastal fog along California forms mostly because:
+A) Ocean warms the air
+B) Land cools rapidly at night
+C) Cold ocean currents cool humid air
+D) High pressure injects moisture
+Answer: C
+
+23. The most important condition for radiation fog is:
+A) Strong winds
+B) Weak temperature gradients
+C) Radiative cooling of the surface
+D) Thick cloud cover
+Answer: C
+
+24. When cold air flows over warm ocean water, the result is often:
+A) Advection fog
+B) Steam fog
+C) Upslope fog
+D) Frontal fog
+Answer: B
+
+25. When warm moist air flows over snow-covered ground, which fog forms?
+A) Radiation
+B) Upslope
+C) Advection
+D) Steam
+Answer: C
+
+26. Upslope fog cools by:
+A) Radiation
+B) Evaporation
+C) Conduction
+D) Adiabatic expansion
+Answer: D
+
+27. Fog droplets form when:
+A) Air sinks
+B) Air warms
+C) Vapor condenses on nuclei
+D) Ice melts
+Answer: C
+
+28. Which fog type can exist even with moderate winds?
+A) Radiation fog
+B) Advection fog
+C) Ice fog
+D) Evaporation fog
+Answer: B
+
+29. Fog is more common near coasts due to:
+A) Stronger winds
+B) Moist air availability
+C) Higher surface melting
+D) Increased evaporation of ice crystals
+Answer: B
+
+30. Downslope winds generally:
+A) Produce fog
+B) Dissipate fog
+C) Increase fog density
+D) Raise dew point
+Answer: B
+
+31. Fog that forms at the base of mountains due to cooling air drainage is:
+A) Ice fog
+B) Valley fog
+C) Steam fog
+D) Frontal fog
+Answer: B
+
+32. Evaporation fog forms best when:
+A) Dew point decreases
+B) Air over water is colder
+C) Air over water is warmer
+D) Surface cools rapidly
+Answer: B
+
+33. Which fog type can create hazardous conditions after rain?
+A) Ice fog
+B) Radiation fog
+C) Frontal fog
+D) Valley fog
+Answer: C
+
+34. Arctic sea smoke is a type of:
+A) Steam fog
+B) Upslope fog
+C) Advection fog
+D) Ice fog
+Answer: A
+
+35. Steam fog forms when:
+A) Cold air moves across warm water
+B) Warm air moves across cold water
+C) Warm air moves across warm water
+D) Cold air moves across cold water
+Answer: A
+
+36. Which fog type is most associated with aviation hazards in valleys?
+A) Steam fog
+B) Tule fog (radiation fog)
+C) Ice fog
+D) Advection fog
+Answer: B
+
+37. Fog droplets typically measure:
+A) 100–500 microns
+B) 20–50 microns
+C) 1–10 microns
+D) 500–1000 microns
+Answer: C
+
+38. In winter, freezing fog can produce:
+A) Graupel
+B) Ice deposits (rime)
+C) Hail
+D) Overshooting tops
+Answer: B
+
+39. Advection fog most often occurs over:
+A) Deserts
+B) Warm lakes in winter
+C) Coastal oceans
+D) Mountain peaks
+Answer: C
+
+40. Fog is more persistent when:
+A) Winds increase
+B) Atmosphere becomes unstable
+C) Air remains saturated
+D) Solar heating increases
+Answer: C
+
+41. Visibility improves when:
+A) Temperature drops
+B) Relative humidity increases
+C) Fog droplets evaporate
+D) Dew point rises
+Answer: C
+
+42. Radiation fog forms best in:
+A) Urban areas
+B) Forests
+C) Valleys
+D) Mountain peaks
+Answer: C
+
+43. Marine-layer fog is commonly reinforced by:
+A) Dewpoint depression
+B) Upwelling of cold water
+C) Rapid warming of land
+D) Jet stream divergence
+Answer: B
+
+44. Evaporational cooling often contributes to:
+A) Dissipation of fog
+B) Formation of fog
+C) Sublimation
+D) Condensation nuclei removal
+Answer: B
+
+45. Frontal fog depends strongly on:
+A) Precipitation falling into colder air
+B) Upslope flow
+C) Valley drainage
+D) Surface winds
+Answer: A
+
+46. Ice fog requires:
+A) Deep warm layers
+B) Very cold temperatures and pollutants/aerosols
+C) High dew points
+D) Convection
+Answer: B
+
+47. Dense fog is most likely when:
+A) Dew point is far below temperature
+B) Dew point and temperature converge
+C) Winds exceed 30 mph
+D) Air is very dry
+Answer: B
+
+48. Fog forms when temperature decreases to:
+A) Freezing point
+B) Wet-bulb temperature
+C) Dew point
+D) Maximum mixing ratio
+Answer: C
+
+49. When radiation fog thickens upward into stratus clouds, it is called:
+A) Fog inversion
+B) Fog lifting
+C) Fog seeding
+D) Fog–stratus transition
+Answer: B
+
+50. Which fog type is MOST dangerous for road travel?
+A) Ice fog
+B) Advection fog
+C) Dense radiation fog
+D) Steam fog
+Answer: C

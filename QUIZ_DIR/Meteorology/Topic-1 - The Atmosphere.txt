@@ -1,0 +1,349 @@
+1. Which layer of the atmosphere contains ~75% of all atmospheric mass?
+A) Stratosphere
+B) Mesosphere
+C) Troposphere
+D) Thermosphere
+Answer: C
+
+2. In which atmospheric layer does temperature increase with altitude due to ozone absorption of UV radiation?
+A) Troposphere
+B) Mesosphere
+C) Exosphere
+D) Stratosphere
+Answer: D
+
+3. The boundary separating the troposphere from the stratosphere is the:
+A) Tropopause
+B) Stratopause
+C) Mesopause
+D) Thermocline
+Answer: A
+
+4. The coldest temperatures in Earth’s atmosphere occur in the:
+A) Thermosphere
+B) Mesosphere
+C) Stratosphere
+D) Tropopause
+Answer: B
+
+5. Which layer gradually transitions into outer space?
+A) Mesosphere
+B) Exosphere
+C) Stratosphere
+D) Thermosphere
+Answer: B
+
+6. Temperature inversions are most common under which condition?
+A) Strong winds
+B) Clear, calm nights
+C) Warm front passage
+D) Deep convection
+Answer: B
+
+7. Which gas makes up ~78% of Earth’s dry atmosphere?
+A) Oxygen
+B) Carbon dioxide
+C) Nitrogen
+D) Argon
+Answer: C
+
+8. Water vapor is considered a variable gas because it:
+A) Only exists in oceans
+B) Varies by location and time
+C) Breaks down rapidly
+D) Is toxic in high concentrations
+Answer: B
+
+9. Which of the following is a primary air pollutant?
+A) Ground-level ozone
+B) Sulfates
+C) Nitrates
+D) Carbon monoxide
+Answer: D
+
+10. A temperature inversion means:
+A) Temperature decreases with height
+B) Temperature increases with height
+C) Temperature remains constant
+D) Wind direction reverses
+Answer: B
+
+11. Pollutants trapped by inversions often lead to:
+A) Clearer air
+B) Smog buildup
+C) Thunderstorms
+D) Enhanced vertical mixing
+Answer: B
+
+12. The ozone layer is found mainly in the:
+A) Troposphere
+B) Lower mesosphere
+C) Upper thermosphere
+D) Stratosphere
+Answer: D
+
+13. The thermosphere has extremely high temperatures because it:
+A) Absorbs longwave radiation
+B) Is nearest the sun
+C) Absorbs energetic solar radiation
+D) Contains more greenhouse gases
+Answer: C
+
+14. The environmental lapse rate represents:
+A) Global average temperature
+B) Actual decrease of temperature with height
+C) Maximum daily heating rate
+D) Only stratospheric temperature
+Answer: B
+
+15. Standard lapse rate is approximately:
+A) 2°C/km
+B) 4°C/km
+C) 5.5°C/km
+D) 6.5°C/km
+Answer: D
+
+16. Which gas is rising due to human activity and contributing to climate change?
+A) Argon
+B) Carbon dioxide
+C) Helium
+D) Ozone
+Answer: B
+
+17. Aerosols are important because they:
+A) Are strong greenhouse gases
+B) Warm the atmosphere
+C) Serve as condensation nuclei
+D) Destroy all ozone
+Answer: C
+
+18. Methane is:
+A) A noble gas
+B) A major particulate
+C) A strong greenhouse gas
+D) A manufacturing byproduct only
+Answer: C
+
+19. Most weather phenomena occur in which layer?
+A) Mesosphere
+B) Stratosphere
+C) Troposphere
+D) Exosphere
+Answer: C
+
+20. Pressure decreases with height because:
+A) Temperature increases
+B) The ozone layer absorbs light
+C) There is less air above
+D) Winds decrease with height
+Answer: C
+
+21. About 50% of atmospheric mass is below:
+A) 5.6 km
+B) 20 km
+C) 50 km
+D) 100 km
+Answer: A
+
+22. Which pollutant forms when sunlight interacts with NOx and VOCs?
+A) Stratospheric ozone
+B) Ground-level ozone
+C) Carbon monoxide
+D) Lead
+Answer: B
+
+23. Which pollutant is associated with incomplete combustion?
+A) CO
+B) SO₂
+C) PM10
+D) VOCs
+Answer: A
+
+24. Sulfur dioxide primarily contributes to:
+A) UV shielding
+B) Acid rain
+C) Greenhouse warming
+D) Cloud formation only
+Answer: B
+
+25. Which describes the mesosphere?
+A) Warmest layer
+B) Ozone-rich layer
+C) Coldest layer
+D) Most weather occurs here
+Answer: C
+
+26. A high concentration of pollutants is most likely during:
+A) Strong cold front passage
+B) Daytime heating
+C) Winter inversion in a valley
+D) Rapid mixing
+Answer: C
+
+27. Air density decreases with height because:
+A) Water vapor increases
+B) Gravity weakens
+C) Temperature increases
+D) There are fewer molecules
+Answer: D
+
+28. Which is a variable gas?
+A) Nitrogen
+B) Oxygen
+C) Argon
+D) Water vapor
+Answer: D
+
+29. The tropopause height is highest over the:
+A) Poles
+B) Midlatitudes
+C) Tropics
+D) Oceans
+Answer: C
+
+30. Lead pollution historically came from:
+A) Agricultural fertilizers
+B) Fuel additives
+C) Volcanoes
+D) Forest fires
+Answer: B
+
+31. Tropospheric ozone is harmful because it:
+A) Protects from UV
+B) Causes respiratory irritation
+C) Cools the stratosphere
+D) Removes CO₂
+Answer: B
+
+32. Which contributes most to natural greenhouse warming?
+A) SO₂
+B) CH₄
+C) Water vapor
+D) Ozone
+Answer: C
+
+33. Hydrostatic equilibrium describes a balance between:
+A) Pressure gradient force & gravity
+B) Coriolis force & friction
+C) Advection & radiation
+D) Mixing & subsidence
+Answer: A
+
+34. A temperature inversion prevents:
+A) Turbulence
+B) Vertical air mixing
+C) Cloud formation
+D) Horizontal motion
+Answer: B
+
+35. Most meteors burn up in the:
+A) Stratosphere
+B) Mesosphere
+C) Thermosphere
+D) Troposphere
+Answer: B
+
+36. Which gas has the highest concentration in dry air?
+A) CO₂
+B) O₂
+C) N₂
+D) H₂O
+Answer: C
+
+37. The stratosphere is stable because:
+A) Water vapor increases
+B) Temperature increases with height
+C) Pressure increases
+D) Convection dominates
+Answer: B
+
+38. PM2.5 refers to particles:
+A) Larger than 25 microns
+B) Less than 2.5 microns
+C) Composed only of sulfur
+D) From volcanic ash only
+Answer: B
+
+39. Air is densest:
+A) At the surface
+B) Near tropopause
+C) In stratosphere
+D) In mesosphere
+Answer: A
+
+40. Temperature in the thermosphere is high because:
+A) CO₂ increases
+B) Water vapor absorbs UV
+C) Solar radiation energizes molecules
+D) There are more molecules
+Answer: C
+
+41. The exosphere is dominated by:
+A) Nitrogen
+B) Water vapor
+C) Ozone
+D) Hydrogen and helium
+Answer: D
+
+42. Inversions are strengthened by:
+A) Cloudy nights
+B) Windy afternoons
+C) Clear, calm weather
+D) Rising warm air
+Answer: C
+
+43. The air pollutant responsible for photochemical smog is:
+A) Methane
+B) Ozone
+C) Argon
+D) Water vapor
+Answer: B
+
+44. Greenhouse gases warm Earth by:
+A) Absorbing UV radiation
+B) Absorbing longwave radiation
+C) Increasing ozone production
+D) Reflecting sunlight
+Answer: B
+
+45. Which area has the highest water vapor content?
+A) Arctic
+B) Midlatitude winter
+C) Tropical oceans
+D) Deserts
+Answer: C
+
+46. A pollutant formed by chemical reactions in the atmosphere is:
+A) CO
+B) SO₂
+C) O₃
+D) Lead
+Answer: C
+
+47. Strongest ozone concentration is found:
+A) Lower troposphere
+B) Middle stratosphere
+C) Upper mesosphere
+D) Thermosphere
+Answer: B
+
+48. Pressure decreases with height most rapidly:
+A) Near surface
+B) In upper atmosphere
+C) Uniformly
+D) Near mesopause
+Answer: A
+
+49. The primary source of natural nitrogen in air is:
+A) Lightning
+B) Denitrification
+C) Forest fires
+D) Volcanoes
+Answer: B
+
+50. The mesopause marks the boundary between the:
+A) Troposphere & stratosphere
+B) Stratosphere & mesosphere
+C) Mesosphere & thermosphere
+D) Thermosphere & exosphere
+Answer: C

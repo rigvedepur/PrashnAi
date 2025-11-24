@@ -1,0 +1,699 @@
+1. Atmospheric pressure is defined as:
+A) Weight of air above a surface
+B) Temperature difference between layers
+C) Density of water vapor
+D) Total ozone concentration
+Answer: A
+
+2. Pressure decreases most rapidly:
+A) In the upper stratosphere
+B) Near the surface
+C) Near the tropopause
+D) In the mesosphere
+Answer: B
+
+3. The main instrument used to measure pressure is the:
+A) Hygrometer
+B) Barometer
+C) Anemometer
+D) Ceilometer
+Answer: B
+
+4. Standard sea-level pressure is approximately:
+A) 900 mb
+B) 950 mb
+C) 1013 mb
+D) 1100 mb
+Answer: C
+
+5. A strong pressure gradient produces:
+A) Calm winds
+B) Strong winds
+C) High humidity
+D) Fog
+Answer: B
+
+6. Coriolis effect arises due to:
+A) Atmospheric friction
+B) Earth’s rotation
+C) Earth’s tilt
+D) Sun’s gravity
+Answer: B
+
+7. In the Northern Hemisphere, Coriolis deflects motion to the:
+A) Left
+B) Right
+C) Upward
+D) Downward
+Answer: B
+
+8. In the Southern Hemisphere, Coriolis deflects motion to the:
+A) Left
+B) Right
+C) Upward
+D) Downward
+Answer: A
+
+9. Coriolis effect increases with:
+A) Speed of the moving object
+B) Latitude
+C) Both A and B
+D) Altitude only
+Answer: C
+
+10. Coriolis effect is zero at the:
+A) Equator
+B) Poles
+C) 30° latitude
+D) 45° latitude
+Answer: A
+
+11. Winds blow from:
+A) High to low pressure
+B) Low to high pressure
+C) Warm to cold
+D) Tropical to polar regions
+Answer: A
+
+12. The pressure gradient force acts:
+A) Parallel to isobars
+B) Perpendicular to isobars
+C) Opposite to Coriolis
+D) Only near mountains
+Answer: B
+
+13. Geostrophic wind occurs when:
+A) Friction dominates
+B) Pressure gradient force balances Coriolis
+C) Only convection occurs
+D) Air moves downward
+Answer: B
+
+14. Geostrophic wind blows:
+A) Across isobars
+B) Along isobars
+C) Straight outward from highs
+D) Only at the poles
+Answer: B
+
+15. Friction is most important:
+A) Above the tropopause
+B) Over oceans
+C) In the planetary boundary layer
+D) In the mesosphere
+Answer: C
+
+16. Friction causes surface winds to:
+A) Turn more across isobars
+B) Strengthen Coriolis effect
+C) Blow exactly parallel to isobars
+D) Reverse direction
+Answer: A
+
+17. Surface winds around a Northern Hemisphere low pressure center blow:
+A) Clockwise and inward
+B) Counterclockwise and inward
+C) Clockwise and outward
+D) Counterclockwise and outward
+Answer: B
+
+18. Surface winds around a Northern Hemisphere high blow:
+A) Counterclockwise and inward
+B) Clockwise and outward
+C) Clockwise and inward
+D) Counterclockwise and outward
+Answer: B
+
+19. Cyclones are associated with:
+A) Rising air
+B) Cloudy or stormy weather
+C) Low pressure
+D) All of the above
+Answer: D
+
+20. Anticyclones are associated with:
+A) Sinking air
+B) Clear skies
+C) High pressure
+D) All of the above
+Answer: D
+
+21. A steep pressure gradient is shown on a weather map by:
+A) Widely spaced isobars
+B) Closely spaced isobars
+C) Fewer isobars
+D) Horizontal alignment of isobars
+Answer: B
+
+22. The hydrostatic equation describes balance between:
+A) PGF and friction
+B) Gravity and vertical pressure gradient
+C) Coriolis and friction
+D) Temperature and density
+Answer: B
+
+23. Hydrostatic balance explains why:
+A) The atmosphere does not collapse
+B) Winds blow in circles
+C) Pressure increases upward
+D) Density rises with height
+Answer: A
+
+24. If pressure decreases rapidly with height, the atmosphere is:
+A) Very dense
+B) Deep
+C) Unstable
+D) Shallow
+Answer: C
+
+25. A ridge on an upper-air chart is associated with:
+A) Warm air and high heights
+B) Cold air and low heights
+C) Surface lows
+D) Strong convergence
+Answer: A
+
+26. A trough on an upper-air chart indicates:
+A) Warm air aloft
+B) Cold air aloft
+C) Anticyclonic flow
+D) Compressed isobars
+Answer: B
+
+27. Cyclonic flow refers to:
+A) Clockwise in NH
+B) Counterclockwise in NH
+C) Clockwise in both hemispheres
+D) No rotation
+Answer: B
+
+28. Anticyclonic flow refers to:
+A) Counterclockwise in NH
+B) Clockwise in NH
+C) Counterclockwise in both hemispheres
+D) Random motion
+Answer: B
+
+29. Surface convergence occurs around:
+A) High pressure
+B) Low pressure
+C) Ridges
+D) Anticyclones
+Answer: B
+
+30. Surface divergence occurs around:
+A) Cyclones
+B) Lows
+C) High pressure
+D) Troughs
+Answer: C
+
+31. Convergence near the surface leads to:
+A) Sinking motion
+B) Rising motion
+C) Stratospheric warming
+D) Wind shear
+Answer: B
+
+32. Divergence near the surface leads to:
+A) Rising motion
+B) Cloud formation
+C) Sinking motion
+D) Thunderstorms
+Answer: C
+
+33. The Coriolis force is strongest at:
+A) Equator
+B) 30° latitude
+C) 45° latitude
+D) Poles
+Answer: D
+
+34. Pressure always decreases with height because:
+A) Temperature is cold aloft
+B) Air molecules are fewer at higher altitude
+C) Coriolis increases
+D) Ozone absorbs UV
+Answer: B
+
+35. Sea-level pressure adjustments correct for:
+A) Temperature
+B) Elevation differences
+C) Humidity
+D) Cloud cover
+Answer: B
+
+36. On a 500-mb chart, higher heights indicate:
+A) Cold air
+B) Warm air
+C) Strong inversions
+D) Sinking air only
+Answer: B
+
+37. Strong winds aloft occur where height contours are:
+A) Far apart
+B) Very close together
+C) Missing
+D) Randomly spaced
+Answer: B
+
+38. Wind direction is named by:
+A) Where it is going
+B) Where it is coming from
+C) Temperature
+D) Pressure difference
+Answer: B
+
+39. Buys-Ballot’s Law states that in the NH, with wind at your back:
+A) Low pressure is on your right
+B) High pressure is on your right
+C) Low pressure is directly behind
+D) Pressure is equal
+Answer: B
+
+40. The horizontal pressure gradient force is proportional to:
+A) Air temperature
+B) Density only
+C) Pressure difference divided by distance
+D) Coriolis magnitude
+Answer: C
+
+41. Coriolis force magnitude depends on:
+A) Pressure
+B) Wind speed
+C) Latitude
+D) Both B and C
+Answer: D
+
+42. Strong upper-level divergence enhances:
+A) High pressure at surface
+B) Surface cyclogenesis
+C) Anticyclone weakening
+D) Subsidence
+Answer: B
+
+43. A rapidly deepening low pressure center is called:
+A) Blocking high
+B) Bomb cyclone
+C) Trough ridge couple
+D) Jet streak
+Answer: B
+
+44. A pressure reading of 980 mb usually indicates:
+A) Weak high
+B) Very strong high
+C) Deep cyclone
+D) Dryline passage
+Answer: C
+
+45. Coriolis force is absent for:
+A) Jet streams
+B) Air at the poles
+C) Air moving along a latitude circle
+D) Air moving exactly on the equator
+Answer: D
+
+46. Surface friction reduces wind speed, which causes:
+A) Stronger Coriolis
+B) Weaker Coriolis
+C) Stronger PGF
+D) No deflection
+Answer: B
+
+47. Winds cross isobars at the surface because of:
+A) Coriolis
+B) PGF
+C) Friction
+D) Jet streaks
+Answer: C
+
+48. A barograph records:
+A) Pressure continuously
+B) Pressure only at specific hours
+C) Humidity
+D) Wind speed
+Answer: A
+
+49. A barometer reading that drops quickly usually signals:
+A) Clearing skies
+B) Strong high pressure
+C) Approaching storm
+D) Stable air
+Answer: C
+
+50. The strongest pressure gradients typically occur:
+A) Inside anticyclones
+B) Near jet streams
+C) In deserts
+D) Near equator
+Answer: B
+
+51. Height contours on upper-air maps represent:
+A) Pressure
+B) Temperature
+C) Geopotential height of pressure levels
+D) Density of air
+Answer: C
+
+52. Low thickness values between pressure levels indicate:
+A) Warm air
+B) Cold air
+C) Dry air
+D) Strong Coriolis
+Answer: B
+
+53. The polar jet stream forms due to:
+A) Air rising at the equator
+B) Strong horizontal temperature gradients
+C) Slow rotation at poles
+D) High humidity
+Answer: B
+
+54. Cyclogenesis occurs when:
+A) Surface convergence + upper divergence
+B) Surface divergence + upper convergence
+C) Cold air aloft increases pressure
+D) Winds strengthen in a ridge
+Answer: A
+
+55. A mature mid-latitude cyclone has:
+A) Warm and cold fronts
+B) A bent-back occlusion
+C) Strong counterclockwise flow (NH)
+D) All of the above
+Answer: D
+
+56. Pressure differences are created mainly by:
+A) Temperature differences
+B) Humidity
+C) Cloud cover
+D) Radiation only
+Answer: A
+
+57. The geostrophic wind approximation works best:
+A) Near the surface
+B) In the boundary layer
+C) Above 1 km over smooth terrain
+D) Inside thunderstorms
+Answer: C
+
+58. Jet streaks cause:
+A) Vertical motion due to entrance/exit regions
+B) Winds to calm completely
+C) Sinking air only
+D) Surface warming
+Answer: A
+
+59. Zonal flow means winds flow:
+A) North–south
+B) South–north
+C) West–east
+D) Vertical
+Answer: C
+
+60. Meridional flow means winds flow:
+A) East–west
+B) North–south
+C) Vertical
+D) Randomly
+Answer: B
+
+61. A strong pressure gradient usually indicates:
+A) High humidity
+B) Strong winds
+C) Weak Coriolis
+D) Sublimation
+Answer: B
+
+62. Cyclones rotate clockwise in:
+A) Northern Hemisphere
+B) Southern Hemisphere
+C) Tropics only
+D) Both hemispheres
+Answer: B
+
+63. For anticyclones, vertical motion is predominantly:
+A) Rising
+B) Sinking
+C) Neutral
+D) Random
+Answer: B
+
+64. Clear, calm weather is typically associated with:
+A) Low pressure
+B) Cyclones
+C) High pressure
+D) Jet streaks
+Answer: C
+
+65. Pressure gradient force is directed:
+A) From low to high pressure
+B) From warm to cold
+C) From high to low pressure
+D) Parallel to isobars
+Answer: C
+
+66. Coriolis force magnitude is zero when wind speed is:
+A) Zero
+B) Light
+C) Moderate
+D) Strong
+Answer: A
+
+67. A “tight pressure gradient” means:
+A) Light winds
+B) Strong winds
+C) Weak Coriolis
+D) High humidity
+Answer: B
+
+68. Winds around a Southern Hemisphere low rotate:
+A) Clockwise
+B) Counterclockwise
+C) Only northward
+D) Convergently but without rotation
+Answer: A
+
+69. The center of a surface low usually corresponds to:
+A) Rising air
+B) Sinking air
+C) Stable atmosphere
+D) Temperature inversion
+Answer: A
+
+70. Pressure tendency describes:
+A) Current wind speed
+B) How pressure has changed over time
+C) Amount of cloud cover
+D) Temperature profile
+Answer: B
+
+71. A rapid rise in surface pressure usually means:
+A) Approaching storm
+B) Storm departing, clearing weather
+C) Increasing convection
+D) Jet streak arrival
+Answer: B
+
+72. A surface high with diverging winds causes:
+A) Cloud formation
+B) Subsidence and warming
+C) Strong thunderstorms
+D) Fog
+Answer: B
+
+73. As air rises, pressure:
+A) Increases
+B) Decreases
+C) Stays constant
+D) Depends on humidity
+Answer: B
+
+74. As air sinks, temperature usually:
+A) Decreases
+B) Increases adiabatically
+C) Remains constant
+D) Follows dew point exactly
+Answer: B
+
+75. Strong cyclones typically have central pressures:
+A) Above 1020 mb
+B) Between 1000 and 1020 mb
+C) Below 990 mb
+D) At 1100 mb
+Answer: C
+
+76. The strongest winds in a mid-latitude cyclone occur:
+A) Near the warm front
+B) Near the cold front
+C) In the tight gradient near the low center
+D) In the occluded sector
+Answer: C
+
+77. A blocking high results in:
+A) Fast weather pattern
+B) Stagnant weather for days/weeks
+C) Rapid cyclogenesis
+D) Strong rising air
+Answer: B
+
+78. Pressure decreases with height more slowly in:
+A) Warm air
+B) Cold air
+C) Desert air
+D) Moist air
+Answer: A
+
+79. Wind is initiated by:
+A) Coriolis
+B) Pressure gradient force
+C) Friction
+D) Radiation
+Answer: B
+
+80. Buys-Ballot’s Law in SH states that with wind at your back:
+A) High pressure on right
+B) Low pressure on right
+C) Pressure is equal
+D) Coriolis is zero
+Answer: B
+
+81. Upper-level lows are associated with:
+A) Warm air
+B) Cold air
+C) Strong inversions
+D) High humidity only
+Answer: B
+
+82. Pressure surfaces slope more steeply in:
+A) Warm air
+B) Cold air
+C) Humid air
+D) Stratospheric layers
+Answer: B
+
+83. Jet stream winds flow parallel to:
+A) Isobars
+B) Height contours
+C) Pressure surfaces only
+D) Temperature gradients
+Answer: B
+
+84. Cyclones strengthen when:
+A) Upper divergence > surface convergence
+B) Surface convergence > upper divergence
+C) Surface divergence increases
+D) Ridge builds overhead
+Answer: A
+
+85. Jet streak right entrance region typically causes:
+A) Rising motion
+B) Sinking motion
+C) Fog
+D) Subsidence
+Answer: B
+
+86. Jet streak left exit region usually causes:
+A) Rising motion
+B) Sinking motion
+C) Drying
+D) Cooling
+Answer: A
+
+87. A “barotropic” atmosphere has:
+A) Strong temperature gradient
+B) No horizontal temperature gradient
+C) Very unstable conditions
+D) Only vertical wind shear
+Answer: B
+
+88. A “baroclinic” zone refers to:
+A) Strong horizontal temperature gradient
+B) Weak Coriolis
+C) Deep stable air
+D) Turbulence only
+Answer: A
+
+89. Midlatitude cyclones form along:
+A) Jet cores
+B) Baroclinic zones
+C) Tropopause breaks
+D) Isothermal layers
+Answer: B
+
+90. Anticyclones bring clear skies because:
+A) Warm air rises
+B) Sinking air suppresses clouds
+C) Dew point increases
+D) Temperature decreases with height
+Answer: B
+
+91. Supergradient winds are:
+A) Faster than geostrophic
+B) Slower than geostrophic
+C) Caused by friction
+D) Only at the equator
+Answer: A
+
+92. Subgeostrophic winds occur:
+A) In ridges
+B) Around cyclones
+C) In the mesosphere
+D) In the eye of hurricanes
+Answer: B
+
+93. The “ridge–trough” pattern is important for:
+A) Cloud droplet formation
+B) Storm tracks
+C) Snowmelt
+D) Ozone absorption
+Answer: B
+
+94. A deep trough is associated with:
+A) Cold air aloft
+B) Warm air aloft
+C) Strong high pressure
+D) Stable inversion
+Answer: A
+
+95. Hottest temperatures in a heat wave are often found beneath:
+A) Trough axis
+B) Ridge axis
+C) Low centers
+D) Warm fronts
+Answer: B
+
+96. Pressure gradients cause winds to blow:
+A) Upward only
+B) From low to high
+C) From high to low
+D) Toward cold air only
+Answer: C
+
+97. Cyclonic vorticity in the NH is:
+A) Clockwise
+B) Counterclockwise
+C) Upward
+D) Westward
+Answer: B
+
+98. Shortwaves embedded in longwaves typically:
+A) Weaken storms
+B) Strengthen upward motion and storms
+C) Reduce wind shear
+D) Reverse Coriolis
+Answer: B
+
+99. Strong surface lows form when:
+A) Upper ridge builds overhead
+B) Warm air sinks
+C) Strong upper troughing + divergence
+D) Pressure gradient weakens
+Answer: C
+
+100. The deepest cyclones often occur near:
+A) Equator
+B) Poles
+C) Baroclinic oceans like the North Atlantic
+D) Tropical deserts
+Answer: C

@@ -1,0 +1,791 @@
+1. Which national laboratory operates the Environmental Molecular Sciences Laboratory (EMSL)?
+
+A) Pacific Northwest National Laboratory
+B) Oak Ridge National Laboratory
+C) Idaho National Laboratory
+D) Sandia National Laboratories
+Answer: A
+
+2. Which PNNL-developed catalyst uses earth-abundant metals to produce hydrogen efficiently?
+
+A) Nickel phosphide catalyst
+B) Iridium oxide catalyst
+C) Silver chloride catalyst
+D) Gold nanoparticle catalyst
+Answer: A
+
+3. Which PNNL model is widely used for global climate–energy–land assessments?
+
+A) GCAM
+B) CESM2
+C) GFDL-AM4
+D) ICON
+Answer: A
+
+4. Which program managed by PNNL operates long-term atmospheric monitoring sites worldwide?
+
+A) ARM Program
+B) CERES Network
+C) CloudSat Project
+D) SuomiNet
+Answer: A
+
+6. Which PNNL facility houses one of the world’s highest-resolution mass spectrometers for proteomics?
+
+A) EMSL
+B) JGI
+C) ALS
+D) APS
+Answer: A
+
+7. Which integrated climate dataset is coordinated with significant support from PNNL researchers?
+
+A) ARM Climate Research Facility
+B) MODIS
+C) MISR
+D) TRMM
+Answer: A
+
+8. Which PNNL field site hosts coastal ocean energy testing platforms?
+
+A) Sequim Marine Sciences Laboratory
+B) Woods Hole Pier
+C) Scripps Coastal Center
+D) Alaska Marine Hub
+Answer: A
+
+9. Which open-source co-simulation tool was developed with heavy PNNL leadership?
+
+A) HELICS
+B) PyDSS
+C) CyDER
+D) PowerWorld
+Answer: A
+
+10. Which PNNL program focuses on understanding aerosol–cloud interactions that influence climate?
+
+A) Atmospheric Sciences & Global Change
+B) Arctic Boreal Network
+C) Marine Boundaries Team
+D) HydroFlux Group
+Answer: A
+
+11. Which PNNL-developed platform evaluates how electric vehicles impact the modern grid?
+
+A) HELICS EV Module
+B) ChargeTrack
+C) EVSimFlow
+D) Dynatrace Grid
+Answer: A
+
+12. Which PNNL tool models global water scarcity and energy interactions?
+
+A) GCAM-Water
+B) HydroFlow
+C) Aquascope
+D) WaterSim3
+Answer: A
+
+13. Which PNNL research theme uses atmospheric instruments to study wildfire smoke chemistry?
+
+A) FIREX Atmospheric Platform
+B) ICEPOP Arctic Campaign
+C) DEW-Rain Program
+D) CIRCLES Airflow Project
+Answer: A
+
+14. Which PNNL initiative studies the effects of atmospheric rivers on the U.S. West Coast?
+
+A) Atmospheric Rivers Initiative
+B) Pacific Jet Stream Program
+C) Climate Ridge Project
+D) StormTrack Model
+Answer: A
+
+15. Which PNNL facility conducts research on fish survival around hydroelectric dams?
+
+A) Hydrology & Ecohydraulics Group
+B) Marine Acoustic Systems Lab
+C) VentHab Ecology Station
+D) FishLife Observatory
+Answer: A
+
+16. Which AI technique is widely used at PNNL for detecting cyberattacks on the power grid?
+
+A) Machine-learning anomaly detection
+B) Gradient thresholding
+C) Manual signal inspection
+D) Static signature mapping
+Answer: A
+
+17. Which PNNL model explores future global biomass energy potential?
+
+A) GCAM-Bioenergy
+B) BioSphereFlux
+C) AgroWaveSim
+D) PlantNet3D
+Answer: A
+
+18. Which isotope is most commonly analyzed in PNNL nuclear nonproliferation research?
+
+A) Uranium-235
+B) Strontium-90
+C) Helium-4
+D) Carbon-14
+Answer: A
+
+19. Which optical technique is frequently used at PNNL to study catalyst surface chemistry?
+
+A) Raman spectroscopy
+B) Ultra-fast LIDAR
+C) Magneto-optic imaging
+D) Cryo-absorption scanning
+Answer: A
+
+20. Which PNNL project models long-term climate trends’ impact on hydropower production?
+
+A) Columbia River Climate Dynamics
+B) GRID-SimCORE
+C) FlowCast
+D) HydroScope-Pacific
+Answer: A
+
+21. Which marine species movement is extensively studied by PNNL near hydroelectric systems?
+
+A) Salmon
+B) Sea turtles
+C) Swordfish
+D) Gray whales
+Answer: A
+
+22. Which PNNL-developed algorithm enhances the speed of screening cargo for radioactive threats?
+
+A) SALMON
+B) FLUXNET
+C) NEUTRA
+D) GLOBE
+Answer: A
+
+23. Which atmospheric process is a core research topic at PNNL’s climate group?
+
+A) Aerosol formation
+B) Nitrate deposition
+C) Lunar albedo shifts
+D) Thermospheric ionization
+Answer: A
+
+24. Which PNNL hydrology model examines climate impacts on river systems?
+
+A) RiverSEER
+B) EflowNet
+C) HYDRA-GW
+D) StormCast
+Answer: A
+
+25. Which domain is a primary focus of PNNL’s National Security Directorate?
+
+A) Nuclear nonproliferation
+B) Venus atmospheric modeling
+C) Space robotics
+D) Deep-ocean trench drilling
+Answer: A
+
+26. Which university partners with PNNL to operate the Joint Global Change Research Institute (JGCRI)?
+
+A) Harvard
+B) University of Maryland
+C) MIT
+D) Duke
+Answer: B
+
+27. Which imaging technique is commonly used at PNNL to examine nanoscale battery degradation?
+
+A) UV absorption
+B) Transmission electron microscopy
+C) Optical tomography
+D) Ultrasound imaging
+Answer: B
+
+28. Which renewable energy technology is extensively tested at PNNL’s marine laboratory?
+
+A) Solar panels
+B) Tidal turbines
+C) Wind towers
+D) Geothermal boreholes
+Answer: B
+
+29. Which PNNL computational model is frequently used to simulate atmospheric chemistry?
+
+A) JAM2
+B) WRF-Chem
+C) TEMPO
+D) FireCast
+Answer: B
+
+30. Which coastal ecosystem is a major research focus at PNNL’s Sequim campus?
+
+A) Coral reefs
+B) Estuaries
+C) Mangroves
+D) Polar coastlines
+Answer: B
+
+31. Which PNNL-developed AI tool supports real-time grid disturbance detection?
+
+A) PulseGrid
+B) DeepGrid
+C) LineTrack
+D) NodeVision
+Answer: B
+
+32. Which atmospheric field campaign included significant PNNL involvement in the Amazon?
+
+A) MAPL
+B) GOAmazon
+C) ICEPOP
+D) NEON
+Answer: B
+
+33. Which PNNL team studies how marine sediments influence coastal carbon cycling?
+
+A) GeoHydro
+B) Marine Biogeochemistry
+C) Arctic Slope Research
+D) DeepWater Ecology
+Answer: B
+
+34. Which PNNL-developed battery type is being advanced for long-duration energy storage?
+
+A) Zinc-metal
+B) Sodium-ion
+C) Carbon-salt
+D) Nickel-hybrid
+Answer: B
+
+35. Which instrument at PNNL measures aerosol optical and chemical properties?
+
+A) UV-Vis probe
+B) Scanning Mobility Particle Sizer
+C) Thermal fog collector
+D) Gas sorption analyzer
+Answer: B
+
+36. Which global warming pollutant is analyzed extensively in PNNL’s atmospheric chemistry models?
+
+A) Oxygen
+B) Methane
+C) Argon
+D) Neon
+Answer: B
+
+37. Which PNNL facility analyzes microplastics and contaminants in marine environments?
+
+A) NOAA Lab
+B) Marine Sciences Laboratory
+C) Ocean Gate Station
+D) Pacific Pelagic Center
+Answer: B
+
+38. Which critical-infrastructure sector is protected by PNNL cyber research?
+
+A) Agriculture
+B) Electric grid
+C) Retail banking
+D) Railroads
+Answer: B
+
+39. Which integrated model is used at PNNL to study water-energy-food systems?
+
+A) MiniCAM
+B) GCAM
+C) REMIND
+D) HEMIS
+Answer: B
+
+40. Which PNNL simulation tool supports resource planning for future electric grids?
+
+A) StormRunner
+B) HELICS
+C) TempestGrid
+D) ProNet
+Answer: B
+
+41. Which greenhouse gas emission is studied using PNNL’s MethaneAIR observations?
+
+A) Nitrous oxide
+B) Methane
+C) Carbon monoxide
+D) Sulfur hexafluoride
+Answer: B
+
+42. Which battery research area is PNNL a world leader in?
+
+A) Algae reactors
+B) Redox flow batteries
+C) Helium reactors
+D) Nano-silicon fusion
+Answer: B
+
+43. Which PNNL instrument characterizes organic aerosols in the atmosphere?
+
+A) Dust-Scan 4000
+B) Aerosol Mass Spectrometer
+C) Plasma Light Analyzer
+D) Proton Beam Calorimeter
+Answer: B
+
+44. Which PNNL health-security project studies biological signatures of pathogens?
+
+A) EpiScope
+B) BioDetection Initiative
+C) HealthLine Node
+D) BioGamma
+Answer: B
+
+45. Which regional field site is monitored by PNNL as part of the ARM program?
+
+A) Gulf Coast Site
+B) Southern Great Plains
+C) Chesapeake Bay
+D) Adirondack Basin
+Answer: B
+
+46. Which PNNL research focus examines how climate change affects hydrologic extremes?
+
+A) Marine Botany
+B) Hydroclimate Dynamics
+C) Urban Design
+D) Glacial Archaeology
+Answer: B
+
+47. Which PNNL-developed AI method improves early detection of grid cyber intrusions?
+
+A) DeepWave
+B) Neural anomaly detection
+C) Parallel clustering
+D) Temporal array tracking
+Answer: B
+
+48. Which marine process is measured at PNNL’s coastal observing stations?
+
+A) Lunar tides
+B) Nutrient fluxes
+C) Starfish reproduction
+D) Desertification
+Answer: B
+
+49. Which methane measurement campaign is linked to PNNL’s climate research?
+
+A) CloudTrax
+B) MethaneAIR
+C) ArcticFog
+D) CO2Watch
+Answer: B
+
+50. Which PNNL model studies air quality impacts from wildfires?
+
+A) HEMIS
+B) WRF-Chem
+C) CESM3
+D) MiniCAM
+Answer: B
+
+51. Which hydrologic process is modeled at PNNL to understand groundwater–surface water interactions?
+
+A) Cross-channel inversion
+B) Arctic permafrost thawing
+C) Subsurface flow modeling
+D) Storm tide resonance
+Answer: C
+
+52. Which type of spectroscopy is used at PNNL to determine catalytic reaction intermediates?
+
+A) Microwave scattering
+B) Hyperspectral thermal imaging
+C) Infrared spectroscopy
+D) Electron avalanche spectroscopy
+Answer: C
+
+53. Which component of the GCAM model is used to assess agricultural land use?
+
+A) HydroFlux
+B) EV-Demand Module
+C) Land System Module
+D) Aerosol–Cloud Unit
+Answer: C
+
+54. Which PNNL facility specializes in research involving large volumes of environmental data?
+
+A) NanoHub
+B) Radiant Lab
+C) Environmental Molecular Sciences Laboratory
+D) Pacific CryoCenter
+Answer: C
+
+55. PNNL researchers use which approach to integrate energy, water, and land sustainability?
+
+A) Forcing-rate interpolation
+B) Nodal climate displacement
+C) Integrated multi-sector modeling
+D) Geothermal fraction modeling
+Answer: C
+
+56. Which PNNL-developed system supports modeling of atmospheric CO₂ sources and sinks?
+
+A) AeroNetX
+B) CarbonWatch
+C) CarbonTracker
+D) StormCarbon
+Answer: C
+
+57. Which atmospheric variable is often compared with PNNL wildfire plume simulations?
+
+A) Ice accretion depth
+B) Sea level anomaly
+C) Aerosol optical depth
+D) Lunar illumination
+Answer: C
+
+58. Which research method is used at PNNL to track the movement of contaminants in soil?
+
+A) Atmospheric back-trajectory
+B) Bio-spectral rotation
+C) Reactive transport modeling
+D) Magneto-thermal fracturing
+Answer: C
+
+59. Which global dataset is commonly used by PNNL to evaluate future energy demand?
+
+A) SolarNet
+B) ArcticMet
+C) Shared Socioeconomic Pathways
+D) OceanGrid Matrix
+Answer: C
+
+60. Which tool is used at PNNL to understand impacts of aerosols on cloud microphysics?
+
+A) GridSim
+B) HYCOM
+C) WRF-Chem
+D) AeroFlux
+Answer: C
+
+61. Which PNNL study evaluates interactions between climate policies and bioenergy production?
+
+A) AquaWorld
+B) RiverSim
+C) GCAM-Bioenergy
+D) CoastInlet
+Answer: C
+
+62. Which biological technique is used at PNNL to identify proteins in pathogens?
+
+A) Holographic microscopy
+B) Acoustic cytometry
+C) Mass spectrometry proteomics
+D) Gradient fluorescence mapping
+Answer: C
+
+63. PNNL's research in marine environments includes studying what type of underwater chemical process?
+
+A) Cryogenic desalination
+B) Microwave denaturation
+C) Ocean acidification
+D) Fungal bioluminescence
+Answer: C
+
+64. Which computational approach is used at PNNL to test stability of power grid components?
+
+A) Fourier staging
+B) Raster collapse modeling
+C) Dynamic co-simulation
+D) Zero-flux inversion
+Answer: C
+
+65. Which component of climate models is PNNL known for improving?
+
+A) Planetary lightning
+B) Aurora prediction
+C) Aerosol microphysics
+D) Magnetic field drift
+Answer: C
+
+66. Which coastal process is analyzed at PNNL to understand nutrient availability?
+
+A) Lava lensing
+B) Tidal ice floe splitting
+C) Sediment resuspension
+D) Solar wave convergence
+Answer: C
+
+67. Which PNNL atmospheric model is used to simulate wildfire smoke across the U.S.?
+
+A) IceGrid
+B) AquaStorm
+C) HRRR-Smoke
+D) WindXP
+Answer: C
+
+68. Which environmental stressor is assessed at PNNL’s marine research facilities?
+
+A) Solar flare depth
+B) Martian dust coverage
+C) Microplastic contamination
+D) Lunar eclipse shadowing
+Answer: C
+
+69. Which global framework helps PNNL evaluate carbon reduction strategies?
+
+A) RadiantNet
+B) CoastalFlux
+C) IPCC Mitigation Scenarios
+D) GeoWind Data Grid
+Answer: C
+
+70. Which grid technology is studied at PNNL to improve renewable energy reliability?
+
+A) Helium turbines
+B) Radio-wave inverters
+C) Energy storage inverters
+D) Electrothermal amplifiers
+Answer: C
+
+71. Which combustion-related variable does PNNL model to understand pollution formation?
+
+A) Catalytic spin
+B) Soil hydrate speed
+C) Volatile organic compounds
+D) Cryogenic mass flow
+Answer: C
+
+72. Which key climate variable is analyzed at PNNL to understand Arctic warming?
+
+A) Thermal resonance
+B) Planetary albedo
+C) Sea ice concentration
+D) Solar wind torque
+Answer: C
+
+73. Which hydrologic factor is included in PNNL modeling of global drylands?
+
+A) Ozone propagation
+B) Lunar soil transport
+C) Soil moisture content
+D) Solar ejecta impacts
+Answer: C
+
+74. Which PNNL simulation tool is used to estimate distribution-level power flows?
+
+A) CoolFlow
+B) AeroChem
+C) GridLAB-D
+D) WindHost
+Answer: C
+
+75. Which part of the energy system is PNNL researching to support microgrid deployment?
+
+A) Thermal spin chambers
+B) Cryogenic adaptors
+C) Grid-edge controllers
+D) Flux capacitors
+Answer: C
+
+76. Which PNNL-developed technology improves the identification of nuclear materials through handheld detection systems?
+
+A) IonScan+
+B) MiniGamma
+C) AlphaSpot
+D) RadSeeker
+Answer: D
+
+77. Which component of PNNL’s wildfire plume research uses aircraft-based sampling platforms?
+
+A) LandSat Airgrid
+B) Nimbus VEGA
+C) CloudScope
+D) FIREX-AQ
+Answer: D
+
+78. Which PNNL model is used to examine stormwater impacts under future climate scenarios?
+
+A) RainFlow
+B) HydroSim2
+C) FloodModeler
+D) StormCast
+Answer: D
+
+79. Which computational method is used at PNNL to identify anomalies in massive power grid data streams?
+
+A) Structural grouping
+B) Phase staggering
+C) Linear collapse mapping
+D) Temporal pattern recognition
+Answer: D
+
+80. Which global climate model has a PNNL-driven aerosol component used in DOE studies?
+
+A) NEMO
+B) HARMONIE
+C) MIROC
+D) E3SM
+Answer: D
+
+81. Which PNNL-instrumented buoy system collects real-time marine energy performance data?
+
+A) TideTrack
+B) HydroSense
+C) BlueFlow
+D) Triton Platform
+Answer: D
+
+82. Which environmental model is used by PNNL to simulate long-range transport of atmospheric pollutants?
+
+A) HYSPLIT
+B) Gaussian Chain Model
+C) GeoBackTrack
+D) FLEXPART
+Answer: D
+
+83. Which marine stressor is assessed at PNNL through ocean carbonate system measurements?
+
+A) Salt intrusion
+B) Submarine seismic drift
+C) Solar bleaching
+D) Ocean acidification
+Answer: D
+
+84. Which grid technology is evaluated at PNNL for its ability to stabilize frequency during peak loads?
+
+A) Arc reactors
+B) Voltage fountains
+C) Cold-start capacitors
+D) Synthetic inertia controls
+Answer: D
+
+85. Which PNNL experiment investigates the effect of aerosols on cloud brightness?
+
+A) CloudNet
+B) RADAR-Scope
+C) AeroOpticX
+D) MARCUS
+Answer: D
+
+86. Which PNNL-developed cyber analytics platform supports U.S. energy sector threat monitoring?
+
+A) CyberVerve
+B) GridGuardian
+C) PowerAI
+D) ML-CyberNET
+Answer: D
+
+87. Which type of reactor design is being studied at PNNL to enhance nuclear nonproliferation safeguards?
+
+A) Boron diffusion reactors
+B) Ultra-fast thermal reactors
+C) Liquid salt wave reactors
+D) Small modular reactors
+Answer: D
+
+88. Which PNNL tool is used to evaluate resilience of distribution systems under extreme wind events?
+
+A) TreeSim
+B) WindFlow3
+C) BranchCast
+D) DistroSim-Storm
+Answer: D
+
+89. Which atmospheric research vessel is used during PNNL coastal observational campaigns?
+
+A) NorthWave
+B) HorizonQuest
+C) PelagicOne
+D) R/V Sikuliaq
+Answer: D
+
+90. Which PNNL hydrogen research initiative focuses on integrating hydrogen into the modern grid?
+
+A) BlueFuel Taskforce
+B) H2Flow
+C) HyBoost
+D) H2@Scale (PNNL-supported)
+Answer: D
+
+91. Which experimental method is used at PNNL to examine the electrical properties of new battery electrolytes?
+
+A) Acoustic rheometry
+B) Cold-field ionization
+C) Thermal wavefront mapping
+D) Electrochemical impedance spectroscopy
+Answer: D
+
+92. PNNL uses which atmospheric modeling approach to simulate Arctic cloud formation?
+
+A) Pressure front synthesis
+B) High-latitude vorticity cycles
+C) Radiative–convective adjustment
+D) Large eddy simulation
+Answer: D
+
+93. Which PNNL marine platform is used to deploy underwater sensors for ecological monitoring?
+
+A) Seagrass Rover
+B) TideSkipper
+C) EcoTrak
+D) SeaBee AUV
+Answer: D
+
+94. Which component of PNNL’s cybersecurity work focuses on defending operational technology networks?
+
+A) Data-reweighting filter
+B) Phase-shift monitor
+C) Sensor integrity checker
+D) ICS security analysis
+Answer: D
+
+95. Which PNNL climate initiative studies how warm ocean currents influence regional storm formation?
+
+A) WarmJet Lab
+B) DeepFlow Basin
+C) HydroCloud
+D) ENA Climate Observatory
+Answer: D
+
+96. Which PNNL tool models the impact of new power electronics on grid stability?
+
+A) VoltSlice
+B) GridTorque
+C) VoltSteer
+D) PowerNet-Dynamics
+Answer: D
+
+97. Which isotope ratio technique is used at PNNL to trace the origin of certain radioactive materials?
+
+A) Beta-lattice fractionation
+B) Carbon-matrix filtration
+C) Cryogenic aerosol trapping
+D) Multi-collector mass spectrometry
+Answer: D
+
+98. Which renewable-energy device is tested at PNNL to measure underwater turbulence effects?
+
+A) Solar flare collector
+B) Floating solar bloom
+C) Vertical-axis wind rotor
+D) Marine hydrokinetic turbine
+Answer: D
+
+99. Which PNNL program studies cloud-radiation interactions over the North Atlantic?
+
+A) BorealView
+B) AeroStorm
+C) CloudPath
+D) MARCUS
+Answer: D
+
+100. Which PNNL computational tool helps simulate cyberattacks across interconnected energy systems?
+
+A) AttackGrid
+B) SignalX
+C) EnergyShield
+D) HELICS-Cyber
+Answer: D

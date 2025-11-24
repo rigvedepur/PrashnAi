@@ -1,0 +1,349 @@
+1. Clouds primarily form when air:
+A) Sinks and warms
+B) Rises and cools
+C) Becomes warmer than surrounding air
+D) Moves downslope
+Answer: B
+
+2. The primary lifting mechanism that creates cumulus clouds is:
+A) Frontal lifting
+B) Convergence
+C) Orographic lift
+D) Convection
+Answer: D
+
+3. The base of a cloud is located at the:
+A) Level of free convection (LFC)
+B) Lifting condensation level (LCL)
+C) Equilibrium level (EL)
+D) Tropopause
+Answer: B
+
+4. Clouds form when the air reaches:
+A) 0°C
+B) Its dew point
+C) 100% mixing ratio
+D) Maximum pressure
+Answer: B
+
+5. Which cloud type is composed mainly of ice crystals?
+A) Stratocumulus
+B) Cirrus
+C) Stratus
+D) Cumulus humilis
+Answer: B
+
+6. Which cloud is associated with thunderstorms and deep convection?
+A) Cirrostratus
+B) Altostratus
+C) Cumulonimbus
+D) Stratocumulus
+Answer: C
+
+7. Cumulus clouds typically indicate:
+A) Stable air
+B) Strong vertical motion
+C) Light snow
+D) Very moist upper atmosphere
+Answer: B
+
+8. Which cloud type produces halos around the sun or moon?
+A) Altostratus
+B) Cirrostratus
+C) Nimbostratus
+D) Stratocumulus
+Answer: B
+
+9. Nimbostratus clouds are associated with:
+A) Thunderstorms
+B) Steady, prolonged precipitation
+C) Clear, dry weather
+D) Fog formation
+Answer: B
+
+10. The “anvil top” of a cumulonimbus cloud forms when:
+A) Air warms rapidly aloft
+B) The cloud reaches the tropopause
+C) Condensation stops
+D) Evaporation increases
+Answer: B
+
+11. Cirrocumulus clouds often appear as:
+A) Puffy cotton balls
+B) Ripples or fish-scale patterns
+C) Flat gray layers
+D) Thick towers
+Answer: B
+
+12. Which clouds are typically associated with a warm front?
+A) Cumulus congestus
+B) Cirrus → cirrostratus → altostratus
+C) Cumulonimbus
+D) Stratocumulus only
+Answer: B
+
+13. Mammatus clouds form due to:
+A) Moist air rising
+B) Cold air sinking beneath an anvil
+C) Wind shear creating turbulence
+D) Sublimation
+Answer: B
+
+14. Lenticular clouds typically form near:
+A) Warm fronts
+B) Mountain ranges
+C) Tropical oceans
+D) Cold pools
+Answer: B
+
+15. Fog is considered a type of:
+A) Altostratus
+B) Stratiform cloud
+C) Cumuliform cloud
+D) Ice cloud
+Answer: B
+
+16. Stratocumulus clouds are generally:
+A) Thin, icy clouds
+B) Puffy but in a low, widespread layer
+C) Thunderstorm-producing
+D) Only mid-level
+Answer: B
+
+17. Cumulus humilis clouds indicate:
+A) Weak updrafts
+B) Developing severe thunderstorms
+C) Heavy rain soon
+D) Significant instability
+Answer: A
+
+18. Altostratus clouds usually result in:
+A) Heavy thunderstorms
+B) Widespread rain or snow
+C) Clear skies
+D) Patchy drizzle
+Answer: B
+
+19. Which cloud often precedes a warm front by several hundred miles?
+A) Cirrus
+B) Stratus
+C) Stratocumulus
+D) Cumulonimbus
+Answer: A
+
+20. A “cloud street” is caused by:
+A) Jet streams
+B) Rolling vortices aligned with wind direction
+C) Freezing fog
+D) Dust devils
+Answer: B
+
+21. Cumulonimbus clouds can reach heights of:
+A) 1–3 km
+B) 4–6 km
+C) 10–20 km
+D) 25–30 km
+Answer: C
+
+22. Which cloud is most associated with aircraft icing?
+A) Cirrus
+B) Cumulonimbus anvil
+C) Supercooled stratiform clouds
+D) Dry contrails
+Answer: C
+
+23. A cloud made of supercooled droplets is likely:
+A) Cirrostratus
+B) Stratocumulus
+C) Altostratus
+D) Any cloud between 0°C and –40°C
+Answer: D
+
+24. Pileus (cap) clouds form when:
+A) Air descends rapidly
+B) Moist air is lifted above a strong updraft
+C) Fog evaporates
+D) Orographic waves weaken
+Answer: B
+
+25. Altocumulus clouds often indicate:
+A) Dry, stable weather
+B) Mid-level instability
+C) Approaching severe thunderstorms
+D) Clear skies by evening
+Answer: C
+
+26. A “wall cloud” forms beneath a:
+A) Cumulonimbus updraft
+B) Cirrus anvil
+C) Stratus base
+D) Downdraft region
+Answer: A
+
+27. The flat top of a cumulonimbus spreads out because:
+A) Latent heat stops rising
+B) Air reaches a stable layer at the tropopause
+C) Ice melts at high altitude
+D) Pressure decreases suddenly
+Answer: B
+
+28. Which describes towering cumulus (TCu)?
+A) Very thin clouds
+B) Growing cumulus that may develop into thunderstorms
+C) Small puffs with no vertical growth
+D) Mid-level sheets
+Answer: B
+
+29. Orographic clouds form when air:
+A) Warms as it sinks
+B) Moves up mountains and cools
+C) Moves offshore
+D) Is heated rapidly by sunlight
+Answer: B
+
+30. Contrails form mainly due to:
+A) Melting snowflakes
+B) Aircraft exhaust mixing with cold, moist air
+C) Fog rising into higher levels
+D) Friction
+Answer: B
+
+31. Stratiform clouds typically produce:
+A) Light, steady precipitation
+B) Heavy thunderstorms
+C) Hail
+D) Tornadoes
+Answer: A
+
+32. Which cloud type is sometimes called “mackerel sky”?
+A) Cirrocumulus
+B) Altostratus
+C) Nimbostratus
+D) Stratus
+Answer: A
+
+33. Cirrus clouds often signal:
+A) Dropping temperatures
+B) Approaching warm front or storm system
+C) Clearing weather
+D) Surface fog
+Answer: B
+
+34. A cumulonimbus with a very strong updraft may produce:
+A) Graupel only
+B) Hail
+C) No precipitation
+D) Light drizzle
+Answer: B
+
+35. Shelf clouds form along:
+A) Warm fronts
+B) Drylines
+C) Outflow boundaries / gust fronts
+D) Snow squalls
+Answer: C
+
+36. Clouds composed almost entirely of water droplets occur mostly:
+A) Above 10 km
+B) Between 0°C and –10°C
+C) Below 6 km
+D) Only in fog
+Answer: C
+
+37. Virga occurs when:
+A) Rain evaporates before reaching the ground
+B) Ice crystals sublimate
+C) Fog rises into stratus
+D) Only snow melts
+Answer: A
+
+38. Which cloud type has the lowest base?
+A) Cumulonimbus
+B) Stratus
+C) Altocumulus
+D) Cirrus
+Answer: B
+
+39. The most dangerous part of a cumulonimbus cloud for aircraft is:
+A) Anvil
+B) Updraft core
+C) Thin cirrus fibers
+D) Fog layer
+Answer: B
+
+40. Microbursts originate from:
+A) Altostratus
+B) Dry air entrainment in thunderstorms
+C) Cirrus outflow
+D) Tornado funnels
+Answer: B
+
+41. A high, thin veil that causes the sun to look “milky” is:
+A) Cirrostratus
+B) Altocumulus
+C) Nimbostratus
+D) Stratocumulus
+Answer: A
+
+42. Clouds formed by horizontal wind shear and turbulence may produce:
+A) Kelvin–Helmholtz clouds
+B) Lenticular waves
+C) Mammatus bulges
+D) Fog droplets
+Answer: A
+
+43. Altostratus clouds differ from cirrostratus because they:
+A) Are lower and thicker
+B) Produce halos
+C) Are made of ice crystals
+D) Occur only in cold air
+Answer: A
+
+44. Which cloud type is most common during a stable atmosphere?
+A) Stratiform
+B) Cumuliform
+C) Cumulonimbus
+D) Towering cumulus
+Answer: A
+
+45. Cumulonimbus clouds require:
+A) Stable air
+B) Weak updrafts
+C) Strong instability & moisture
+D) Low dew point
+Answer: C
+
+46. Microphysical processes in clouds involve:
+A) Ice-crystal growth and collision–coalescence
+B) Only condensation
+C) Only sublimation
+D) Wind-driven turbulence
+Answer: A
+
+47. Which cloud is most likely to form a sun dog?
+A) Cirrus
+B) Nimbostratus
+C) Altostratus
+D) Stratocumulus
+Answer: A
+
+48. An altostratus cloud lowering and thickening usually indicates:
+A) Clearing skies
+B) Approaching precipitation
+C) Stable cold air
+D) Fog formation
+Answer: B
+
+49. Severe thunderstorms often show:
+A) Mammatus under the anvil
+B) Lenticular caps
+C) Cirrostratus bands
+D) Dry adiabatic layers
+Answer: A
+
+50. If cloud tops are extremely cold and high, this suggests:
+A) Weak storms
+B) Strong updrafts
+C) Dissipation
+D) Warm frontal fog
+Answer: B

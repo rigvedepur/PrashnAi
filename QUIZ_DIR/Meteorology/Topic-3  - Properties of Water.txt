@@ -1,0 +1,349 @@
+1. Water has a high specific heat, meaning it:
+A) Heats and cools very quickly
+B) Requires little energy for temperature change
+C) Changes temperature slowly
+D) Cannot store energy
+Answer: C
+
+2. The specific heat of water is high because of:
+A) Weak hydrogen bonds
+B) Strong hydrogen bonds
+C) Ionic bonding
+D) Heavy isotopes
+Answer: B
+
+3. Latent heat is defined as:
+A) Heat felt directly as temperature
+B) Heat transferred only by conduction
+C) Heat released or absorbed during phase change
+D) Solar energy at the surface
+Answer: C
+
+4. Sensible heat is:
+A) Heat stored in water vapor
+B) Heat you can feel and measure with a thermometer
+C) Heat used for melting
+D) Heat used for evaporation
+Answer: B
+
+5. When water evaporates, it:
+A) Releases latent heat
+B) Absorbs latent heat
+C) Releases sensible heat
+D) Gains density
+Answer: B
+
+6. When water vapor condenses into liquid, it:
+A) Absorbs latent heat
+B) Releases latent heat
+C) Becomes less dense
+D) Heats up the surrounding air by conduction only
+Answer: B
+
+7. The latent heat of vaporization is:
+A) Heat needed to melt ice
+B) Heat needed to freeze water
+C) Heat needed to evaporate water
+D) Heat needed to warm ice
+Answer: C
+
+8. The latent heat of fusion is:
+A) Heat required to melt ice
+B) Heat absorbed when vapor condenses
+C) Heat used to evaporate water
+D) Heat released during melting
+Answer: A
+
+9. Which phase change releases the MOST energy?
+A) Melting
+B) Freezing
+C) Condensation
+D) Evaporation
+Answer: C
+
+10. Evaporation causes cooling because:
+A) Water gains density
+B) Molecules with highest energy escape
+C) Latent heat is released
+D) Surface absorbs infrared radiation
+Answer: B
+
+11. Which process warms the surrounding environment?
+A) Evaporation
+B) Melting
+C) Sublimation
+D) Condensation
+Answer: D
+
+12. Density of water is highest at:
+A) 0°C
+B) 2°C
+C) 3.98°C
+D) 10°C
+Answer: C
+
+13. Ice floats on water because:
+A) Ice is warmer
+B) Ice is denser
+C) Water expands when freezing
+D) Ice contains trapped gases
+Answer: C
+
+14. Water’s high specific heat helps moderate:
+A) Magnetic fields
+B) Ocean salinity
+C) Coastal temperatures
+D) Air pressure changes
+Answer: C
+
+15. As water cools from 4°C to 0°C, its density:
+A) Increases steadily
+B) Decreases
+C) Stays constant
+D) Drops then rises
+Answer: B
+
+16. During sublimation, water changes from:
+A) Ice to liquid
+B) Vapor to liquid
+C) Ice to vapor
+D) Liquid to ice
+Answer: C
+
+17. Latent heat is stored mainly in:
+A) Cold ocean currents
+B) Water vapor
+C) Sea ice
+D) Cloud droplets
+Answer: B
+
+18. During deposition, water:
+A) Absorbs heat
+B) Releases heat
+C) Transfers only sensible heat
+D) Changes into liquid
+Answer: B
+
+19. Which process involves both latent heat release AND cloud formation?
+A) Melting
+B) Evaporation
+C) Condensation
+D) Sublimation
+Answer: C
+
+20. Water vapor is important because it:
+A) Is the least dense gas
+B) Stores and transports latent heat
+C) Has low energy content
+D) Does not absorb radiation
+Answer: B
+
+21. Which phase contains the MOST stored energy per gram?
+A) Ice
+B) Supercooled droplets
+C) Liquid water
+D) Water vapor
+Answer: D
+
+22. What happens to temperature during a phase change (e.g., melting)?
+A) Temperature increases rapidly
+B) Temperature remains constant
+C) Temperature decreases
+D) Depends on air pressure
+Answer: B
+
+23. The ocean’s slow temperature change affects climate by:
+A) Increasing desert formation
+B) Reducing day-to-day temperature variations
+C) Increasing hurricane frequency only
+D) Blocking sunlight
+Answer: B
+
+24. When water freezes, it:
+A) Absorbs latent heat
+B) Releases latent heat
+C) Gains density
+D) Increases specific heat
+Answer: B
+
+25. A high dew point indicates:
+A) Low water vapor
+B) A dry air mass
+C) Large latent heat reservoir
+D) Strong winds
+Answer: C
+
+26. Which process TAKES energy from the environment?
+A) Condensation
+B) Freezing
+C) Deposition
+D) Evaporation
+Answer: D
+
+27. The density of humid air compared to dry air is:
+A) Higher
+B) Lower
+C) Equal
+D) Undefined
+Answer: B
+
+28. Which heat transfer process dominates phase changes?
+A) Conduction
+B) Latent heat
+C) Sensible heat
+D) Radiation only
+Answer: B
+
+29. Oceans warm more slowly than land because:
+A) Water is denser
+B) Water is darker
+C) Water has higher specific heat
+D) Water evaporates less easily
+Answer: C
+
+30. Which process results in atmospheric cooling?
+A) Condensation
+B) Freezing
+C) Evaporation
+D) Deposition
+Answer: C
+
+31. Which phase change releases the LEAST energy?
+A) Freezing
+B) Deposition
+C) Condensation
+D) Sublimation
+Answer: A
+
+32. When ice melts, the latent heat:
+A) Is released
+B) Is absorbed
+C) Becomes sensible heat immediately
+D) Converts to longwave radiation
+Answer: B
+
+33. Water vapor has high energy because:
+A) It is highly compressed
+B) Molecules move very quickly
+C) It has low surface tension
+D) It radiates infrared strongly
+Answer: B
+
+34. A strong ocean-to-land temperature contrast at night occurs because:
+A) Water cools faster than land
+B) Land cools faster than water
+C) Land has higher specific heat
+D) Oceans have lower humidity
+Answer: B
+
+35. Latent heat released in storms strengthens them by:
+A) Increasing static stability
+B) Warming rising air
+C) Cooling the surface
+D) Removing water vapor
+Answer: B
+
+36. When saturated air ascends, condensation releases:
+A) Latent heat → increases buoyancy
+B) Latent heat → decreases buoyancy
+C) Sensible heat → cools cloud tops
+D) No heat
+Answer: A
+
+37. Which phase change involves both melting and evaporation energy?
+A) Sublimation
+B) Condensation
+C) Deposition
+D) Freezing
+Answer: A
+
+38. If two equal-mass samples receive the same heat input, the temperature change will be smallest in:
+A) Sand
+B) Dry soil
+C) Granite
+D) Water
+Answer: D
+
+39. Water vapor content increases when:
+A) Temperature decreases
+B) Temperature increases
+C) Pressure drops sharply
+D) Hydrogen bonds strengthen
+Answer: B
+
+40. The largest reservoir of latent heat on Earth is:
+A) Ice caps
+B) Clouds
+C) Water vapor
+D) Lakes
+Answer: C
+
+41. Condensation in a rising parcel of air causes the air to:
+A) Cool more quickly
+B) Cool at the dry adiabatic rate
+C) Warm relative to dry ascent
+D) Stop ascending entirely
+Answer: C
+
+42. The reason water expands when freezing is:
+A) Molecules compress tightly
+B) Crystal structure forces molecules apart
+C) Pressure increases inside ice
+D) Temperature increases rapidly
+Answer: B
+
+43. Clouds form when air:
+A) Warms and sinks
+B) Evaporates water
+C) Cools to saturation → condensation releases heat
+D) Becomes denser than surrounding air
+Answer: C
+
+44. Which is true of latent heat?
+A) It changes temperature but not phase
+B) It changes phase but not temperature
+C) It cannot be transported
+D) It only exists in oceans
+Answer: B
+
+45. Warm, moist air is less dense because:
+A) Water vapor molecules are heavier
+B) Air flows around mountains
+C) Water vapor displaces heavier nitrogen & oxygen
+D) CO₂ rises into upper air
+Answer: C
+
+46. Which process directly powers thunderstorms and hurricanes?
+A) Sensible heating at the surface
+B) Latent heat release from condensation
+C) Ocean tides
+D) Longwave cooling
+Answer: B
+
+47. Water’s maximum density occurring at 4°C is important because it:
+A) Increases evaporation
+B) Prevents lakes from freezing solid
+C) Strengthens hurricanes
+D) Increases ozone production
+Answer: B
+
+48. Which phase change absorbs the most energy per gram?
+A) Melting
+B) Freezing
+C) Condensation
+D) Evaporation
+Answer: D
+
+49. When relative humidity decreases, evaporation:
+A) Decreases
+B) Stops completely
+C) Increases
+D) Becomes latent heat release
+Answer: C
+
+50. The energy needed to evaporate water primarily comes from:
+A) Earth’s core
+B) Solar radiation and surrounding air
+C) Cloud droplets
+D) Ocean currents
+Answer: B
