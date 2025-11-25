@@ -12,11 +12,16 @@ import dash_bootstrap_components as dbc
 import plotly.graph_objects as go
 
 # Set QUIZ_DIR environment variable
-QUIZ_DIR = os.path.join(os.path.dirname(__file__), 'QUIZ_DIR')
+APP_DIR = os.path.dirname(__file__)
+QUIZ_DIR = os.path.join(APP_DIR, 'QUIZ_DIR')
 os.environ['QUIZ_DIR'] = QUIZ_DIR
 
-# Ensure QUIZ_DIR exists
+# Ensure directories exist
 os.makedirs(QUIZ_DIR, exist_ok=True)
+
+# Directory to store incorrect answers
+INCORRECT_DIR = os.path.join(APP_DIR, 'Incorrect')
+os.makedirs(INCORRECT_DIR, exist_ok=True)
 print(f"📂 Using quiz directory: {os.path.abspath(QUIZ_DIR)}")
 ############################
 # Parsing & Utilities
@@ -361,6 +366,7 @@ app.layout.children.extend([
     dcc.Store(id="order-store", data=[]),
     dcc.Store(id="index-store", data=0),
     dcc.Store(id="history-store", data=[]),
+    dcc.Store(id="incorrect-file-store", data=None),
 ])
 
 
@@ -374,6 +380,7 @@ app.layout.children.extend([
      Output("order-store", "data"),
      Output("index-store", "data"),
      Output("history-store", "data"),
+     Output("incorrect-file-store", "data"),
      Output("status", "children"),
      Output("status", "color")],
     [Input("file-dropdown", "value")],
@@ -392,16 +399,24 @@ def load_quiz(file_path, dedupe, shuffle, all_questions):
                 text = f.read()
             all_questions = parse_quiz_text(text, dedupe=dedupe_on, max_questions=1000)
             questions = get_random_questions(all_questions, 50)  # Load random 50
+            # derive Subject and Topic for incorrect file name
+            subject = os.path.basename(os.path.dirname(file_path)) or "UnknownSubject"
+            topic = os.path.splitext(os.path.basename(file_path))[0] or "UnknownTopic"
+            ts = datetime.now().strftime('%Y%m%d_%H%M%S')
+            incorrect_filename = f"{subject}_{topic}_{ts}.csv"
+            incorrect_path = os.path.join(INCORRECT_DIR, incorrect_filename)
             status = f"✅ Loaded {len(questions)} random questions from {os.path.basename(file_path)} (source has {len(all_questions)})"
             color = "success"
         except Exception as e:
             questions = DEFAULT_QUESTIONS
             all_questions = DEFAULT_QUESTIONS
+            incorrect_path = None
             status = f"❌ Error loading file: {str(e)}"
             color = "danger"
     else:
         questions = []
         all_questions = all_questions or []
+        incorrect_path = None
         status = "ℹ️ Select a quiz file to begin"
         color = "light"
 
@@ -411,7 +426,7 @@ def load_quiz(file_path, dedupe, shuffle, all_questions):
         import random
         random.shuffle(order)
 
-    return questions, all_questions, order, 0, [], status, color
+    return questions, all_questions, order, 0, [], incorrect_path, status, color
 
 
 @app.callback(
@@ -460,16 +475,17 @@ def display_question(questions, order, index):
      State("questions-store", "data"),
      State("order-store", "data"),
      State("index-store", "data"),
-     State("history-store", "data")],
+     State("history-store", "data"),
+     State("incorrect-file-store", "data")],
     prevent_initial_call=True
 )
-def handle_actions(submit, next_click, selected, questions, order, index, history):
+def handle_actions(submit, next_click, selected, questions, order, index, history, incorrect_file_path):
     """Handle submit, next, and reveal actions"""
     ctx = callback_context
     trigger = ctx.triggered[0]['prop_id'] if ctx.triggered else None
 
     if trigger == "submit.n_clicks":
-        # Prevent re-submitting the same question: if already in history, return existing feedback
+        # Prevent re-submitting the same question: if already in history, return existing feedback and do not advance
         if history:
             prev = next((h for h in history if h.get("index") == index), None)
             if prev is not None:
@@ -505,11 +521,32 @@ def handle_actions(submit, next_click, selected, questions, order, index, histor
             feedback = f"❌ Incorrect. The correct answer is {question['answer']}"
             color = "danger"
 
-        return feedback, color, {"display": "block"}, new_history, index
+            # Persist incorrect answer to CSV in Incorrect directory
+            if incorrect_file_path:
+                try:
+                    # Prepare CSV row
+                    row = [
+                        datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
+                        str(index + 1),
+                        question["stem"],
+                        selected,
+                        question["answer"]
+                    ]
+                    # Write header if file doesn't exist yet
+                    needs_header = not os.path.exists(incorrect_file_path) or os.path.getsize(incorrect_file_path) == 0
+                    with open(incorrect_file_path, 'a', encoding='utf-8', newline='') as f:
+                        if needs_header:
+                            f.write('timestamp,question_index,question,selected,correct\n')
+                        # Escape quotes and commas in question text by wrapping in double quotes
+                        safe_question = '"' + question["stem"].replace('"', '""') + '"'
+                        f.write(f"{row[0]},{row[1]},{safe_question},{row[3]},{row[4]}\n")
+                except Exception as _:
+                    # Ignore file write errors to not break UX
+                    pass
 
-    elif trigger == "next.n_clicks":
-        new_index = min(index + 1, len(order) - 1)
-        return "", "light", {"display": "none"}, history, new_index
+        # Auto-advance to next question after submit
+        new_index = min(index + 1, len(order) - 1) if order else index
+        return feedback, color, {"display": "block"}, new_history, new_index
 
     return "", "light", {"display": "none"}, history, index
 
