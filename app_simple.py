@@ -326,8 +326,15 @@ app.layout = dbc.Container(fluid=True, children=[
                         className="mb-3"
                     ),
 
-                    # Choices
-                    html.Div(id="choices-container", className="mb-3"),
+                    # Choices (static component; options/value updated via callback)
+                    dbc.RadioItems(
+                        id="choices",
+                        options=[],
+                        value=None,
+                        className="mb-3",
+                        persistence=True,
+                        persistence_type="session"
+                    ),
 
                     # Feedback
                     dbc.Alert(
@@ -416,7 +423,8 @@ def load_quiz(file_path, dedupe, shuffle, all_questions):
 
 @app.callback(
     [Output("question-display", "children"),
-     Output("choices-container", "children"),
+     Output("choices", "options"),
+     Output("choices", "value"),
      Output("progress", "children")],
     [Input("questions-store", "data"),
      Input("order-store", "data"),
@@ -425,27 +433,22 @@ def load_quiz(file_path, dedupe, shuffle, all_questions):
 def display_question(questions, order, index):
     """Display the current question"""
     if not questions or not order or index >= len(order):
-        return "No questions available", [], ""
+        return "No questions available", [], None, ""
 
     question = questions[order[index]]
     stem = question["stem"]
     options = question["options"]
 
-    choices = dbc.RadioItems(
-        id="choices",
-        options=[
-            {"label": f"A) {options['A']}", "value": "A"},
-            {"label": f"B) {options['B']}", "value": "B"},
-            {"label": f"C) {options['C']}", "value": "C"},
-            {"label": f"D) {options['D']}", "value": "D"},
-        ],
-        value=None,
-        className="mb-3"
-    )
+    choices_options = [
+        {"label": f"A) {options['A']}", "value": "A"},
+        {"label": f"B) {options['B']}", "value": "B"},
+        {"label": f"C) {options['C']}", "value": "C"},
+        {"label": f"D) {options['D']}", "value": "D"},
+    ]
 
     progress = f"Question {index + 1} of {len(order)}"
 
-    return stem, choices, progress
+    return stem, choices_options, None, progress
 
 
 @app.callback(
@@ -481,10 +484,10 @@ def handle_actions(submit, next_click, selected, questions, order, index, histor
                 else:
                     feedback = f"❌ Incorrect. The correct answer is {answer}"
                     color = "danger"
-                return feedback, color, {"display": "block"}, history, index
+                return feedback, color, {"display": "block"}, history, no_update
 
         if not selected:
-            return "Please select an answer first!", "danger", {"display": "block"}, history, index
+            return "Please select an answer first!", "danger", {"display": "block"}, history, no_update
 
         question = questions[order[index]]
         correct = selected == question["answer"]
@@ -505,7 +508,7 @@ def handle_actions(submit, next_click, selected, questions, order, index, histor
             feedback = f"❌ Incorrect. The correct answer is {question['answer']}"
             color = "danger"
 
-        return feedback, color, {"display": "block"}, new_history, index
+        return feedback, color, {"display": "block"}, new_history, no_update
 
     elif trigger == "next.n_clicks":
         new_index = min(index + 1, len(order) - 1)
